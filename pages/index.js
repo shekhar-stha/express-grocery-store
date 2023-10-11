@@ -52,7 +52,7 @@ export default function Home() {
         <ProductCategories />
         <WhyUs />
         <ProductSlider headerClass="text-start" containerName="All Products" products={products} />
-        <AboutUs img="/img/prashanna.jpg" />
+        <AboutUs img="/img/store-indoor.jpg" />
         <ProductSlider headerClass="text-start" containerName="Snacks" products={snacks} />
         <ProductSlider headerClass="text-start" containerName="Spices" products={spices} />
         <Testimonials />
