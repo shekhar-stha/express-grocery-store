@@ -1,5 +1,6 @@
 import React from 'react'
 import CallNow from '../buttons/callNow'
+import Image from 'next/image'
 
 export default function WhyUs() {
     return (
@@ -34,7 +35,7 @@ export default function WhyUs() {
                        <CallNow className="btn-primary px-5 mt-3" />
                     </div>
                     <div className='img-div'>
-                        <img src='/img/store-outdoor.JPG' alt='Store Outdoor' />
+                        <Image width={702} height={500} src='/img/store-outdoor.JPG' alt='Store Outdoor' />
                     </div>
                 </div>
             </div>

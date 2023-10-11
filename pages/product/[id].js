@@ -8,6 +8,7 @@ import ProductSlider from '../../components/products/productSlider';
 import Gallery from '../../components/info/gallery';
 import Footer from '../../components/info/footer';
 import Link from 'next/link';
+import Image from 'next/image';
 
 const fetcher = (url) => fetch(url).then((res) => res.json());
 export default function ProductInfo() {
@@ -50,7 +51,7 @@ export default function ProductInfo() {
                     <div className="container">
                         <div className="row">
                             <div className="col-lg-6 mb-lg-0 mb-4 bg-transparent">
-                                <img className='product-thumbnail img-fluid' src={product?.img} />
+                                <Image width={636} height={360} className='product-thumbnail img-fluid' src={product?.img} />
                             </div>
 
                             <div className="col-lg-6">
@@ -64,9 +65,9 @@ export default function ProductInfo() {
 
                                     </p>
 
-                                    <div className='mt-4'>
+                                    <div className='mt-4 d-flex flex-vsm-row flex-column'>
                                         <CallNow className="btn btn-primary px-5 mt-2" />
-                                        <Link className='btn btn-outline-primary border-2 fw-500 ms-3 mt-2 px-5' href={`/contact`} key={product?.id} >
+                                        <Link className='btn btn-outline-primary border-2 fw-500 ms-vsm-3 mt-2 px-5' href={`/contact`} key={product?.id} >
                                             Contact Us
                                         </Link>
                                     </div>

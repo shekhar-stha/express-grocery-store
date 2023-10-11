@@ -14,6 +14,7 @@ import Hero from '../components/info/hero';
 import Gallery from '../components/info/gallery';
 import AboutUs from '../components/info/aboutUs';
 import AllProducts from '../components/products/allProducts';
+import Image from 'next/image';
 
 const fetcher = (url) => fetch(url).then((res) => res.json());
 
@@ -35,6 +36,7 @@ export default function Home() {
 
   const spices = products.filter((product) => product.genre === 'Spices');
   const snacks = products.filter((product) => product.genre === 'Snacks');
+  const rice = products.filter((product) => product.genre === 'Rice');
   return (
     <div>
       <Head>
@@ -48,11 +50,11 @@ export default function Home() {
         <section className='nav-hero home'>
           <Navbar />
           <Hero />
-          <img class="bg-img" src="/img/gallery-2.JPG" alt="Painter painting" />
+          <Image width={1400} height={800} class="bg-img" src="/img/gallery-2.JPG" alt="Painter painting" />
         </section>
         <ProductCategories />
         <WhyUs />
-        <ProductSlider headerClass="text-start" containerName="All Products" products={products} />
+        <ProductSlider headerClass="text-start" containerName="Rice" products={rice} />
         <AboutUs img="/img/store-indoor.JPG" />
         <ProductSlider headerClass="text-start" containerName="Snacks" products={snacks} />
         <ProductSlider headerClass="text-start" containerName="Spices" products={spices} />

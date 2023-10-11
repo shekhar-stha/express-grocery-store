@@ -4,6 +4,7 @@ import { IconStarFilled } from '@tabler/icons-react';
 
 import SearchComponent from '../ui-elements/searchButton';
 import Link from 'next/link';
+import Image from 'next/image';
 export default function Hero() {
     return (
         <div className='hero'>
@@ -55,7 +56,7 @@ export default function Hero() {
                         </div>
                     </div>
                     <div className="img-div ps-2">
-                        <img className="hero-img" src="/img/hero-lady.png" alt="Lady Shopping" />
+                        <Image width={600} height={600} priority className="hero-img" src="/img/hero-lady.png" alt="Lady Shopping" />
 
                     </div>
                 </div>

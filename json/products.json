@@ -1,5 +1,18 @@
 [
-
+  {
+    "id": 1,
+    "name": "Nuts",
+    "genre": "Snacks",
+    "description": "Delicious and nutritious seeds with a hard shell. Packed with flavor and goodness. Includes almonds, walnuts, and pecans.",
+    "img": "/img/products/plantersNuts.png"
+  },
+  {
+    "id": 2,
+    "name": "1kg crispy Punjabi cookie Indian",
+    "genre": "Snacks",
+    "description": "Rich and flavorful experience of our 1kg pack of Crispy Punjabi Cookies, straight from the heart of Indian culinary delight.",
+    "img": "/img/products/punjabiCookie.png"
+  },
   {
     "id": 3,
     "name": "Steel reserve str burst",
@@ -635,7 +648,7 @@
     "name": "Poha Thick",
     "genre": "Rice",
     "description": "Poha Thick is flattened rice, a versatile ingredient for making various Indian snacks and breakfast dishes.",
-    "img": "/img/products/poho.jpeg"
+    "img": "/img/products/poha.jpeg"
   },
   {
     "id": 94,
