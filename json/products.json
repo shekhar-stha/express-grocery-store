@@ -1,18 +1,5 @@
 [
-  {
-    "id": 1,
-    "name": "Nuts",
-    "genre": "Snacks",
-    "description": "Delicious and nutritious seeds with a hard shell. Packed with flavor and goodness. Includes almonds, walnuts, and pecans.",
-    "img": "https://target.scene7.com/is/image/Target/GUEST_0b6a13f6-ea23-41fa-9fff-7211f292ff45?wid=1200&hei=1200&qlt=80&fmt=webp"
-  },
-  {
-    "id": 2,
-    "name": "1kg crispy Punjabi cookie Indian",
-    "genre": "Snacks",
-    "description": "Rich and flavorful experience of our 1kg pack of Crispy Punjabi Cookies, straight from the heart of Indian culinary delight.",
-    "img": "https://www.indianmarketus.com/cdn/shop/products/2020.08.11-crispy-cookies-punjabi-front-transparent-1024x782_1200x1200.png?v=1617210754"
-  },
+
   {
     "id": 3,
     "name": "Steel reserve str burst",
