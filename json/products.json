@@ -18,7 +18,7 @@
     "name": "Steel reserve str burst",
     "genre": "Beverages",
     "description": "High-alcohol content malt liquor produced by the Steel Brewing Company, a subsidiary of the Miller Brewing Company.",
-    "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bevmo.com%2Fshop%2Fbeer_and_hard_seltzer%2Fmalt_beverages%2Fsteel_reserve_high_gravity_211_40_oz_btl%2Fp%2F1564405684712745296&psig=AOvVaw0cgiLQcDEtk5QuRFZvRhdo&ust=1696427803963000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJD934qE2oEDFQAAAAAdAAAAABAI"
+    "img": "/img/products/burst.png"
   },
   {
     "id": 4,
@@ -578,7 +578,7 @@
     "name": "Deep Suran",
     "genre": "Vegetables",
     "description": "Deep Suran, also known as elephant foot yam, is a starchy and nutritious vegetable. Great for curries and fries.",
-    "img": ""
+    "img": "/img/products/suran.jpg"
   },
   {
     "id": 84,
@@ -646,14 +646,14 @@
   {
     "id": 93,
     "name": "Poha Thick",
-    "genre": "Flattened Rice",
+    "genre": "Rice",
     "description": "Poha Thick is flattened rice, a versatile ingredient for making various Indian snacks and breakfast dishes.",
     "img": "/img/products/poho.jpeg"
   },
   {
     "id": 94,
     "name": "Bansi Poha Thin 2Lbs",
-    "genre": "Flattened Rice",
+    "genre": "Rice",
     "description": "Bansi Poha Thin is thin flattened rice, perfect for making quick and light snacks. A popular breakfast choice.",
     "img": "/img/products/thin.jpg"
   },
@@ -702,7 +702,7 @@
   {
     "id": 101,
     "name": "Deep Surati Undhiyu Mix",
-    "genre": "Mix",
+    "genre": "Snacks",
     "description": "Deep Surati Undhiyu Mix is a blend of various spices and ingredients to create the authentic flavors of Surati Undhiyu. Perfect for making this traditional Gujarati dish.",
     "img": "/img/products/surti.jpg"
   },
@@ -809,7 +809,7 @@
     "name": "Deep Low Fat Dahi",
     "genre": "Dairy",
     "description": "Deep Low Fat Dahi is a nutritious and tangy yogurt with reduced fat content. Perfect for a healthy diet.",
-    "img": "/img/products/old.jpg"
+    "img": "/img/products/deed.jpg"
   },
   {
     "id": 118,
@@ -849,14 +849,14 @@
   {
     "id": 123,
     "name": "Deep Mix. Veg. 2 Lbs",
-    "genre": "Frozen Vegetables",
+    "genre": "Vegetables",
     "description": "Deep Mix. Veg. is a blend of assorted vegetables, perfect for adding convenience to your cooking. Ideal for stir-fries and curries.",
     "img": "/img/products/prem.jpg"
   },
   {
     "id": 124,
     "name": "Deep Green Peas 2Lb",
-    "genre": "Frozen Vegetables",
+    "genre": "Vegetables",
     "description": "Deep Green Peas in a 2-pound pack offer convenience and nutrition. Great for adding to a variety of dishes.",
     "img": "/img/products/peas.jpg"
   },
@@ -1031,21 +1031,21 @@
   {
     "id": 149,
     "name": "Deep Coriander Chutney 10Oz",
-    "genre": "Sauces",
+    "genre": "Spices",
     "description": "Deep Coriander Chutney is a flavorful accompaniment to various Indian snacks and dishes. Each pack contains 10 ounces.",
     "img": "/img/products/tt.png"
   },
   {
     "id": 150,
     "name": "Deep Mint Chutney",
-    "genre": "Sauces",
+    "genre": "Spices",
     "description": "Deep Mint Chutney is a refreshing and flavorful condiment that pairs well with snacks and appetizers. Enjoy the cooling taste of mint.",
     "img": "/img/products/mint.jpg"
   },
   {
     "id": 151,
     "name": "Deep Pani Puri",
-    "genre": "Snacks",
+    "genre": "Spices",
     "description": "Deep Pani Puri is a popular Indian street food snack. Each pack contains the crispy puris and a tangy and spicy pani (water) mix.",
     "img": "/img/products/pp.jpg"
   },
@@ -1208,7 +1208,7 @@
     "name": "Udupi Jaggery 907G",
     "genre": "Sweeteners",
     "description": "Udupi Jaggery, a natural sweetener with a rich, caramel-like flavor, perfect for sweetening your dishes.",
-    "img": ""
+    "img": "/img/products/up.png"
   },
   {
     "id": 175,
@@ -1341,7 +1341,7 @@
     "name": "Deep Green Chillies 12 Oz",
     "genre": "Vegetables",
     "description": "Deep Green Chillies, spicy and vibrant, add a kick to your dishes for those who love a bit of heat.",
-    "img": "/img/products/chill.jpg"
+    "img": "/img/products/chil.jpg"
   },
   {
     "id": 194,
@@ -1493,7 +1493,7 @@
   {
     "id": 215,
     "name": "Deep Kati Paneer",
-    "genre": "Dairy",
+    "genre": "Breads",
     "description": "Deep Kati Paneer, marinated and ready-to-cook paneer, perfect for quick and delicious meals.",
     "img": "/img/products/roll.jpg"
   },
@@ -1679,166 +1679,1840 @@
     "description": "Dutch Royal, a refreshing and royal beverage to quench your thirst and elevate your mood.",
     "img": "/img/products/beer.jpg"
   },
-
   {
     "id": 251,
-    "name": "",
+    "name": "Deep Kati Paneer Tikka",
     "genre": "",
     "description": "",
-    "img": ""
+    "img": "/img/products/tika.jpg"
   },
-
-
   {
-    "id":252 ,
-    "name": "",
-    "genre": "",
-    "description": "",
-    "img": ""
+    "id": 252,
+    "name": "Deep Coco Slice",
+    "genre": "Bakery",
+    "description": "Deep Coco Slice, a delightful chocolate-infused bakery treat.",
+    "img": "/img/products/el.jpg"
   },
-
   {
     "id": 253,
-    "name": "",
-    "genre": "",
-    "description": "",
-    "img": ""
+    "name": "Deep Kashmiri Chili 7Oz",
+    "genre": "Spices",
+    "description": "Deep Kashmiri Chili 7Oz, flavorful and aromatic Kashmiri chili for spice enthusiasts.",
+    "img": "/img/products/kasmir.jpg"
   },
   {
     "id": 254,
-    "name": "",
-    "genre": "",
-    "description": "",
-    "img": ""
+    "name": "Deep Garlic Naan",
+    "genre": "Bakery",
+    "description": "Deep Garlic Naan, soft and aromatic Indian bread infused with garlic flavor.",
+    "img": "/img/products/garlic.jpg"
   },
   {
     "id": 255,
-    "name": "",
-    "genre": "",
-    "description": "",
-    "img": ""
+    "name": "Deep Daabeli",
+    "genre": "Snacks",
+    "description": "Deep Daabeli, a popular Indian street food snack with a sweet and spicy filling.",
+    "img": "/img/products/dabeli.jpg"
   },
   {
     "id": 256,
-    "name": "",
-    "genre": "",
-    "description": "",
-    "img": ""
+    "name": "Deep Roghini naan",
+    "genre": "Bakery",
+    "description": "Deep Roghini Naan, soft and flavorful Indian bread with a touch of spices.",
+    "img": "/img/products/soft.jpg"
   },
   {
     "id": 257,
-    "name": "",
-    "genre": "",
-    "description": "",
-    "img": ""
+    "name": "Pepsi 12O Can",
+    "genre": "Beverages",
+    "description": "Pepsi 12O Can, a classic carbonated beverage for a refreshing experience.",
+    "img": "/img/products/pepsi.jpg"
   },
   {
     "id": 258,
-    "name": "",
-    "genre": "",
-    "description": "",
-    "img": ""
+    "name": "Mtn Dew Diet 20O Btl",
+    "genre": "Beverages",
+    "description": "Mountain Dew Diet 20O Btl, a diet version of the popular citrus-flavored beverage.",
+    "img": "/img/products/dew.jpg"
   },
   {
-    "id":259 ,
-    "name": "",
-    "genre": "",
-    "description": "",
-    "img": ""
+    "id": 259,
+    "name": "Aquafina Purified Drinking Water 20O Btl",
+    "genre": "Beverages",
+    "description": "Aquafina Purified Drinking Water 20O Btl, pure and refreshing drinking water.",
+    "img": "/img/products/feena.jpg"
   },
   {
     "id": 260,
-    "name": "",
-    "genre": "",
-    "description": "",
-    "img": ""
+    "name": "Pepsi Cola 20O Btl",
+    "genre": "Beverages",
+    "description": "Pepsi Cola 20O Btl, a classic cola beverage for a timeless taste.",
+    "img": "/img/products/pep.jpg"
   },
+
   {
     "id": 261,
-    "name": "",
-    "genre": "",
-    "description": "",
-    "img": ""
+    "name": "Chilli &Garlic Powder",
+    "genre": "Spices",
+    "description": "Chilli & Garlic Powder, a flavorful blend of spicy chilli and aromatic garlic for enhancing your culinary creations.",
+    "img": "/img/products/bhale.png"
   },
   {
-    "id":262 ,
-    "name": "",
-    "genre": "",
-    "description": "",
-    "img": ""
+    "id": 262,
+    "name": "Starbucks Doubleshot Energy Mocha Coffee Beverage 15O Can",
+    "genre": "Beverages",
+    "description": "Starbucks Doubleshot Energy Mocha Coffee Beverage 15O Can, a rich and energizing coffee drink for a quick pick-me-up.",
+    "img": "/img/products/"
   },
   {
-    "id":263 ,
-    "name": "",
-    "genre": "",
-    "description": "",
-    "img": ""
+    "id": 263,
+    "name": "Mountain Dew Amp Energy Drink Original 16O Can",
+    "genre": "Beverages",
+    "description": "Mountain Dew Amp Energy Drink Original 16O Can, an original energy-boosting beverage with the bold flavor of Mountain Dew.",
+    "img": "/img/products/energy.jpg"
   },
   {
     "id": 264,
-    "name": "",
-    "genre": "",
-    "description": "",
-    "img": ""
+    "name": "Mug Root Beer 20O Btl",
+    "genre": "Beverages",
+    "description": "Mug Root Beer 20O Btl, a classic root beer with a sweet and sassy flavor for a nostalgic taste experience.",
+    "img": "/img/products/mug.jpg"
   },
   {
     "id": 265,
-    "name": "",
-    "genre": "",
-    "description": "",
-    "img": ""
+    "name": "Mountaind Dew Kickstart Energizing Black Cherry 16O Can",
+    "genre": "Beverages",
+    "description": "Mountain Dew Kickstart Energizing Black Cherry 16O Can, a fruity and energizing drink with the bold flavor of black cherry.",
+    "img": "/img/products/start.jpg"
   },
   {
     "id": 266,
-    "name": "",
-    "genre": "",
-    "description": "",
-    "img": ""
+    "name": "Diet Pepsi Cola 20O Btl",
+    "genre": "Beverages",
+    "description": "Diet Pepsi Cola 20O Btl, a diet version of the classic cola for a refreshing experience without the calories.",
+    "img": "/img/products/ep.jpg"
   },
   {
     "id": 267,
-    "name": "",
-    "genre": "",
-    "description": "",
-    "img": ""
+    "name": "Pure Leaf Sweet Tea 18.5O Btl",
+    "genre": "Beverages",
+    "description": "Pure Leaf Sweet Tea 18.5O Btl, a sweet and refreshing tea beverage for tea enthusiasts.",
+    "img": "/img/products/sweet.jpg"
   },
   {
     "id": 268,
-    "name": "",
-    "genre": "",
-    "description": "",
-    "img": ""
+    "name": "Zote Laundry Soap Pink 14.10 Oz",
+    "genre": "Household",
+    "description": "Zote Laundry Soap Pink 14.10 Oz, a reliable laundry soap for effective cleaning.",
+    "img": "/img/products/soap.jpg"
   },
   {
     "id": 269,
-    "name": "",
-    "genre": "",
-    "description": "",
-    "img": ""
+    "name": "Kcb Cake Rusk 700G",
+    "genre": "Bakery",
+    "description": "Kcb Cake Rusk 700G, crunchy and sweet cake rusk for a delightful snack.",
+    "img": "/img/products/kcb.jpg"
   },
   {
     "id": 270,
-    "name": "",
-    "genre": "",
-    "description": "",
-    "img": ""
+    "name": "Prince Michel Cabernet",
+    "genre": "Beverages",
+    "description": "Prince Michel Cabernet, a rich and flavorful red wine for wine enthusiasts.",
+    "img": "/img/products/prince.jpg"
   },
   {
-    "id":271 ,
-    "name": "",
-    "genre": "",
-    "description": "",
-    "img": ""
+    "id": 271,
+    "name": "Rapidan River Peach",
+    "genre": "Beverages",
+    "description": "Rapidan River Peach, a peach-flavored beverage for a fruity and refreshing taste.",
+    "img": "/img/products/virginia.jpg"
   },
   {
     "id": 272,
-    "name": "",
-    "genre": "",
-    "description": "",
-    "img": ""
+    "name": "Well Hung White",
+    "genre": "Beverages",
+    "description": "Well Hung White, a white wine option for those who enjoy a crisp and light taste.",
+    "img": "/img/products/club.jpg"
+  },
+  {
+    "id": 273,
+    "name": "Pepperidge Farm Goldfish Bakes Snack Crackers Cheddar 2.65 Oz",
+    "genre": "Snacks",
+    "description": "Pepperidge Farm Goldfish Bakes Snack Crackers Cheddar 2.65 Oz, cheesy and crunchy baked snack crackers.",
+    "img": "/img/products/fish.jpg"
+  },
+  {
+    "id": 274,
+    "name": "Pepperidge Goldfish Baked Snack Crackers Flavor Blasted Xtra Cheddar 2.45 Oz",
+    "genre": "Snacks",
+    "description": "Pepperidge Goldfish Baked Snack Crackers Flavor Blasted Xtra Cheddar 2.45 Oz, extra cheddar flavor for an indulgent snacking experience.",
+    "img": "/img/products/gold.jpg"
+  },
+  {
+    "id": 275,
+    "name": "Chex Mix Cheddar Snack Mix",
+    "genre": "Snacks",
+    "description": "Chex Mix Cheddar Snack Mix, a savory and crunchy mix of cheddar-flavored snacks.",
+    "img": "/img/products/chex.jpg"
+  },
+  {
+    "id": 276,
+    "name": "Binaca mouth fresh",
+    "genre": "Personal Care",
+    "description": "Binaca Mouth Fresh, a refreshing and portable solution for fresh breath.",
+    "img": "/img/products/bin.jpg"
+  },
+  {
+    "id": 277,
+    "name": "Gardettos Special Request Garlic Rye Chips",
+    "genre": "Snacks",
+    "description": "Gardettos Special Request Garlic Rye Chips, crunchy rye chips with a savory garlic flavor.",
+    "img": "/img/products/special.jpg"
+  },
+  {
+    "id": 278,
+    "name": "Chex Mix Muddy Buddies Cookies & Cream",
+    "genre": "Snacks",
+    "description": "Chex Mix Muddy Buddies Cookies & Cream, a delightful mix of cookies and cream-flavored snack bites.",
+    "img": "/img/products/chexmix.jpg"
+  },
+  {
+    "id": 279,
+    "name": "Bud Light Beer 16 Can",
+    "genre": "Beverages",
+    "description": "Bud Light Beer 16 Can, a light and refreshing beer for casual enjoyment.",
+    "img": "/img/products/light.png"
+  },
+  {
+    "id": 280,
+    "name": "Savoy Coconut Cream",
+    "genre": "Beverages",
+    "description": "Savoy Coconut Cream, a rich and creamy coconut-flavored beverage for various culinary applications.",
+    "img": "/img/products/sav.jpg"
+  },
+  {
+    "id": 281,
+    "name": "Natural Light Can",
+    "genre": "Beverages",
+    "description": "Natural Light Can, a light beer option for those who prefer a mild and easy-drinking beer.",
+    "img": "/img/products/lite.jpg"
+  },
+  {
+    "id": 282,
+    "name": "Hurricane 40 oz",
+    "genre": "Beverages",
+    "description": "Hurricane 40 oz, a bold and high-alcohol content beverage for those seeking a stronger drink.",
+    "img": "/img/products/liq.jpg"
+  },
+  {
+    "id": 283,
+    "name": "Bud Ice Lager",
+    "genre": "Beverages",
+    "description": "Bud Ice Lager, a lager beer with a refreshing and crisp taste.",
+    "img": "/img/products/am.jpg"
+  },
+  {
+    "id": 284,
+    "name": "Budweiser 16O Btl",
+    "genre": "Beverages",
+    "description": "Budweiser 16O Btl, a classic and iconic American lager beer.",
+    "img": "/img/products/bud.jpg"
+  },
+  {
+    "id": 285,
+    "name": "Ritas Strawberry Can",
+    "genre": "Beverages",
+    "description": "Ritas Strawberry Can, a fruity and refreshing strawberry-flavored beverage.",
+    "img": "/img/products/ri.jpg"
+  },
+  {
+    "id": 286,
+    "name": "Bud Light Platinum",
+    "genre": "Beverages",
+    "description": "Bud Light Platinum, a premium light beer with a smooth and crisp taste.",
+    "img": "/img/products/plat.jpg"
+  },
+  {
+    "id": 287,
+    "name": "Stella Artois Premium Lager -25 Fl Oz",
+    "genre": "Beverages",
+    "description": "Stella Artois Premium Lager -25 Fl Oz, a premium lager with a distinctive and sophisticated taste.",
+    "img": "/img/products/x.png"
+  },
+  {
+    "id": 288,
+    "name": "Extra Spearmint Sugar Free Gum 35 Ct",
+    "genre": "Snacks",
+    "description": "Extra Spearmint Sugar Free Gum 35 Ct, sugar-free gum with a refreshing spearmint flavor.",
+    "img": "/img/products/sticks.jpg"
+  },
+  {
+    "id": 289,
+    "name": "Extra Peppermint Sugar Free Gum 35 Ct",
+    "genre": "Snacks",
+    "description": "Extra Peppermint Sugar Free Gum 35 Ct, sugar-free gum with a cool and minty peppermint flavor.",
+    "img": "/img/products/pack.jpg"
+  },
+  {
+    "id": 290,
+    "name": "Marlboro",
+    "genre": "Cigratee and Cigar",
+    "description": "Marlboro, a well-known brand of cigarettes with a distinctive flavor.",
+    "img": "/img/products/filter.png"
+  },
+
+  {
+    "id": 291,
+    "name": "Marlboro Menth100 Box",
+    "genre": "Cigratee and Cigar",
+    "description": "Marlboro Menth100 Box, a menthol-flavored variant of the well-known Marlboro brand for a cool and refreshing smoking experience.",
+    "img": "/img/products/marl.png"
+  },
+  {
+    "id": 292,
+    "name": "Hubba Bubba Bubble Tape Original 2 Oz",
+    "genre": "Snacks",
+    "description": "Hubba Bubba Bubble Tape Original 2 Oz, a fun and flavorful bubblegum tape for long-lasting bubble-blowing enjoyment.",
+    "img": "/img/products/bubble.jpg"
+  },
+  {
+    "id": 293,
+    "name": "Altoids Peppermint 1.76 Oz",
+    "genre": "Snacks",
+    "description": "Altoids Peppermint 1.76 Oz, strong and refreshing peppermint-flavored mints for a burst of freshness.",
+    "img": "/img/products/alt.jpg"
+  },
+  {
+    "id": 294,
+    "name": "Marlboro Red Box",
+    "genre": "Cigratee and Cigar",
+    "description": "Marlboro Red Box, the classic and robust flavor of Marlboro cigarettes in a red box for a strong smoking experience.",
+    "img": "/img/products/fill.jpg"
+  },
+  {
+    "id": 295,
+    "name": "Newport 20 Ct 100",
+    "genre": "Cigratee and Cigar",
+    "description": "Newport 20 Ct 100, a pack of 100 menthol cigarettes from the Newport brand for a smooth and cool smoking experience.",
+    "img": "/img/products/port.png"
+  },
+  {
+    "id": 296,
+    "name": "Newport Cigarettes Box 20 Ct",
+    "genre": "Cigratee and Cigar",
+    "description": "Newport Cigarettes Box 20 Ct, a standard pack of Newport menthol cigarettes for a refreshing smoking experience.",
+    "img": "/img/products/box.jpg"
+  },
+  {
+    "id": 297,
+    "name": "Newport Cigarettes Box 20 Ct",
+    "genre": "Cigratee and Cigar",
+    "description": "Newport Cigarettes Box 20 Ct, another pack of Newport menthol cigarettes for a consistent smoking experience.",
+    "img": "/img/products/port.png"
+  },
+  {
+    "id": 298,
+    "name": "Newport Box 1000S Menthol Cigarettes 10 Ct",
+    "genre": "Cigratee and Cigar",
+    "description": "Newport Box 1000S Menthol Cigarettes 10 Ct, a carton of Newport menthol cigarettes with 1000S for an extended smoking supply.",
+    "img": "/img/products/bo.png"
+  },
+  {
+    "id": 299,
+    "name": "Newport Box Menthol Cigarettes Carton 10 C",
+    "genre": "Cigratee and Cigar",
+    "description": "Newport Box Menthol Cigarettes Carton 10 C, a carton of Newport menthol cigarettes for a convenient and extended smoking supply.",
+    "img": "/img/products/poor.png"
+  },
+  {
+    "id": 300,
+    "name": "Nido Dry Whole Milk",
+    "genre": "Dairy",
+    "description": "Nido Dry Whole Milk, a powdered whole milk product that is convenient and versatile for various culinary uses.",
+    "img": "/img/products/nido.jpg"
+  },
+  {
+    "id": 301,
+    "name": "Malboro red box",
+    "genre": "Cigratee and Cigar",
+    "description": "Marlboro Red Box, a classic and iconic red box of Marlboro cigarettes for those who prefer a robust smoking experience.",
+    "img": "/img/products/pm.jpg"
+  },
+  {
+    "id": 302,
+    "name": "Marlboro Menthol Cigarettes 20 Ct",
+    "genre": "Cigratee and Cigar",
+    "description": "Marlboro Menthol Cigarettes 20 Ct, menthol-flavored cigarettes from the Marlboro brand for a cool smoking sensation.",
+    "img": "/img/products/tol.jpg"
+  },
+  {
+    "id": 303,
+    "name": "Marlboro 100S Red 20 Ct",
+    "genre": "Cigratee and Cigar",
+    "description": "Marlboro 100S Red 20 Ct, 100S size red box of Marlboro cigarettes for a longer smoking experience.",
+    "img": "/img/products/pm.jpg"
+  },
+  {
+    "id": 304,
+    "name": "Middleton Black & Mild Apple Pipe Tobacco Cigars",
+    "genre": "Cigratee and Cigar",
+    "description": "Middleton Black & Mild Apple Pipe Tobacco Cigars offer a uniquely flavorful and aromatic smoking experience. Crafted with a blend of premium pipe tobacco, these cigars boast a rich apple infusion that tantalizes the senses with every puff.",
+    "img": "/img/products/craft.png"
+  },
+  {
+    "id": 305,
+    "name": "Job Cigarette Paper, 1.5 - 24 leaves",
+    "genre": "Cigratee and Cigar",
+    "description": " Elevate your smoking experience with our meticulously crafted, ultra-thin papers that ensure a smooth burn and maximum flavor retention. ",
+    "img": "/img/products/job.png"
+  },
+  {
+    "id": 306,
+    "name": "Marlboro Silver Pack 100S 20 Ct",
+    "genre": "Cigratee and Cigar",
+    "description": "Marlboro Silver Pack 100S 20 Ct, 100S size silver-packaged box of Marlboro cigarettes for a longer and lighter smoking experience.",
+    "img": "/img/products/tol.jpg"
+  },
+  {
+    "id": 307,
+    "name": "Zig Zag Cigar Wraps, Premium",
+    "genre": "Cigratee and Cigar",
+    "description": "Cigar Zig Zag",
+    "img": "/img/products/zag.png"
+  },
+  {
+    "id": 308,
+    "name": "Marlboro Black 100S Cigarettes 20 Ct",
+    "genre": "Cigratee and Cigar",
+    "description": "Marlboro Black 100S Cigarettes 20 Ct, 100S size box of Marlboro Black cigarettes for a longer and intense smoking experience.",
+    "img": "/img/products/po.jpg"
+  },
+  {
+    "id": 309,
+    "name": "Marlboro Black 100S Menthol Cigarettes 20 Ct",
+    "genre": "Cigratee and Cigar",
+    "description": "Marlboro Black 100S Menthol Cigarettes 20 Ct, 100S size box of Marlboro Black Menthol cigarettes for a longer and intense menthol smoking experience.",
+    "img": "/img/products/menthol.jpg"
+  },
+  {
+    "id": 310,
+    "name": "Marlboro Gold Flip-Top Cigarettes 10 Ct",
+    "genre": "Cigratee and Cigar",
+    "description": "Marlboro Gold Flip-Top Cigarettes 10 Ct, a flip-top box of Marlboro Gold cigarettes for a convenient and portable smoking supply.",
+    "img": "/img/products/"
+  },
+  {
+    "id": 311,
+    "name": "Marlboro Gold 100S Flip-Top Cigarettes 10 Ct",
+    "genre": "Cigratee and Cigar",
+    "description": "Marlboro Gold 100S Flip-Top Cigarettes 10 Ct, a flip-top box of 100S size Marlboro Gold cigarettes for a longer and convenient smoking supply.",
+    "img": "/img/products/sake.png"
+  },
+  {
+    "id": 312,
+    "name": "Marlboro Black 100S Flip-Top Cigarettes 10 Ct",
+    "genre": "Cigratee and Cigar",
+    "description": "Marlboro Black 100S Flip-Top Cigarettes 10 Ct, a flip-top box of 100S size Marlboro Black cigarettes for a longer and intense smoking supply.",
+    "img": "/img/products/flv.jpg"
+  },
+  {
+    "id": 313,
+    "name": "Marlboro Black Box Carton",
+    "genre": "Cigratee and Cigar",
+    "description": "Marlboro Black Box Carton, a carton of Marlboro Black cigarettes for a supply that lasts.",
+    "img": "/img/products/slate.png"
+  },
+  {
+    "id": 314,
+    "name": "Game diamond",
+    "genre": "Cigratee and Cigar",
+    "description": "Game Diamond, a pack of cig.",
+    "img": "/img/products/game.jpg"
+  },
+
+  {
+    "id": 315,
+    "name": "Marlboro Silver Flip-Top Cigarettes 10 Ct",
+    "genre": "Cigratee and Cigar",
+    "description": "Marlboro Silver Flip-Top Cigarettes, 10 Ct.",
+    "img": "/img/products/png.png"
+  },
+  {
+    "id": 316,
+    "name": "White Owl Cigarillos Silver 2 Ct",
+    "genre": "Cigratee and Cigar",
+    "description": "White Owl Cigarillos Silver, 2 Ct.",
+    "img": "/img/products/owl.jpeg"
+  },
+  {
+    "id": 317,
+    "name": "White Owl Pineapple",
+    "genre": "Cigratee and Cigar",
+    "description": "White Owl Pineapple Cigars.",
+    "img": "/img/products/part.png"
+  },
+  {
+    "id": 318,
+    "name": "Game Gold 2For0.99",
+    "genre": "Cigratee and Cigar",
+    "description": "Game Gold, 2 for $0.99.",
+    "img": "/img/products/honey.jpg"
+  },
+  {
+    "id": 319,
+    "name": "Garcia Y Vega Game Green Leaf Cigars Green 2 Ct",
+    "genre": "Cigratee and Cigar",
+    "description": "Garcia Y Vega Game Green Leaf Cigars Green, 2 Ct.",
+    "img": "/img/products/yellow.png"
+  },
+  {
+    "id": 320,
+    "name": "Game Blk Sweet",
+    "genre": "Cigratee and Cigar",
+    "description": "Game Black Sweet Cigars.",
+    "img": "/img/products/sweets.png"
+  },
+  {
+    "id": 321,
+    "name": "Game Strw Clda 2F99",
+    "genre": "Cigratee and Cigar",
+    "description": "Game Strawberry Cooled, 2 for $0.99.",
+    "img": "/img/products/redd.jpg"
+  },
+  {
+    "id": 322,
+    "name": "Game Mango 2/.99 30Ct",
+    "genre": "Cigratee and Cigar",
+    "description": "Game Mango, 2 for $0.99, 30 Ct.",
+    "img": "/img/products/mangoo.jpg"
+  },
+  {
+    "id": 323,
+    "name": "White Owl Pairs Cherry/Vanilla",
+    "genre": "Cigratee and Cigar",
+    "description": "White Owl Pairs Cherry/Vanilla Cigars.",
+    "img": "/img/products/pair.png"
+  },
+  {
+    "id": 324,
+    "name": "Corona Familiar Can",
+    "genre": "Alcohol",
+    "description": "Corona Familiar Can.",
+    "img": "/img/products/corona.jpg"
+  },
+  {
+    "id": 325,
+    "name": "Modelo Mango and Chile Can",
+    "genre": "Alcohol",
+    "description": "Modelo Mango and Chile Can.",
+    "img": "/img/products/dda.jpg"
+  },
+  {
+    "id": 326,
+    "name": "Modelo Pina",
+    "genre": "Alcohol",
+    "description": "Modelo Pina Can.",
+    "img": "/img/products/cante.jpg"
+  },
+  {
+    "id": 327,
+    "name": "Corona Premier Imported Beer 6/12O Btl",
+    "genre": "Alcohol",
+    "description": "Corona Premier Imported Beer, 6/12O Btl.",
+    "img": "/img/products/mitt.png"
+  },
+  {
+    "id": 328,
+    "name": "Modelo Ora 24oz Can",
+    "genre": "Alcohol",
+    "description": "Modelo Ora 24oz Can.",
+    "img": "/img/products/alc.png"
+  },
+  {
+    "id": 329,
+    "name": "Corona Premier Imported Beer 6/12O Btl",
+    "genre": "Alcohol",
+    "description": "Corona Premier Imported Beer, 6/12O Btl.",
+    "img": "/img/products/mitt.png"
+  },
+  {
+    "id": 330,
+    "name": "Modelo Chelada Limon and Sal Can",
+    "genre": "Alcohol",
+    "description": "Modelo Chelada Limon and Sal Can.",
+    "img": "/img/products/brew.png"
+  },
+  {
+    "id": 331,
+    "name": "Ice Breakers Mints Wintergreen 1.50 Oz",
+    "genre": "Sweets",
+    "description": "Ice Breakers Mints Wintergreen, 1.50 Oz.",
+    "img": "/img/products/rate.jpg"
+  },
+  {
+    "id": 332,
+    "name": "Reese's Fast Break King Size",
+    "genre": "Chocolate",
+    "description": "Reese's Fast Break King Size.",
+    "img": "/img/products/ships.jpg"
+  },
+  {
+    "id": 333,
+    "name": "Modelo Especial",
+    "genre": "Alcohol",
+    "description": "Modelo Especial Beer.",
+    "img": "/img/products/mod.jpg"
+  },
+  {
+    "id": 334,
+    "name": "Kit Kat King Size Crispy Wafers",
+    "genre": "Chocolate",
+    "description": "Kit Kat King Size Crispy Wafers.",
+    "img": "/img/products/kitkat.jpg"
+  },
+  {
+    "id": 335,
+    "name": "Hershey's Milk Chocolate Bar 1.55 Oz",
+    "genre": "Chocolate",
+    "description": "Hershey's Milk Chocolate Bar, 1.55 Oz.",
+    "img": "/img/products/hers.jpg"
+  },
+  {
+    "id": 336,
+    "name": "Rolo Chewy Caramels In Milk Chocolate 1.70 Oz",
+    "genre": "Chocolate",
+    "description": "Rolo Chewy Caramels In Milk Chocolate, 1.70 Oz.",
+    "img": "/img/products/rolo.jpg"
+  },
+  {
+    "id": 337,
+    "name": "Almond Joy Milk Chocolate, Coconut & Almond Bar - 1.61 Oz",
+    "genre": "Chocolate",
+    "description": "Almond Joy Milk Chocolate, Coconut & Almond Bar, 1.61 Oz.",
+    "img": "/img/products/almond.jpg"
+  },
+  {
+    "id": 338,
+    "name": "Cadbury Caramello King Size - 2.7 Oz",
+    "genre": "Chocolate",
+    "description": "Cadbury Caramello King Size, 2.7 Oz.",
+    "img": "/img/products/car.png"
+  },
+  {
+    "id": 339,
+    "name": "Ice Breakers Ice Cubes Peppermint Sugar Free Gum 40 Pc",
+    "genre": "Sweets",
+    "description": "Ice Breakers Ice Cubes Peppermint Sugar Free Gum, 40 Pc.",
+    "img": "/img/products/cubes.jpg"
+  },
+  {
+    "id": 340,
+    "name": "Reese's Nutrageous King Size",
+    "genre": "Chocolate",
+    "description": "Reese's Nutrageous King Size.",
+    "img": "/img/products/king.png"
+  },
+  {
+    "id": 341,
+    "name": "Reese's Big Cup King Size 2.80 Oz",
+    "genre": "Chocolate",
+    "description": "Reese's Big Cup King Size, 2.80 Oz.",
+    "img": "/img/products/cp.jpg"
+  },
+
+
+  {
+    "id": 342,
+    "name": "Miller Lite Can",
+    "genre": "Alcohol",
+    "description": "Miller Lite Can is a refreshing light beer, perfect for casual gatherings and social occasions.",
+    "img": "/img/products/lit.png"
+  },
+  {
+    "id": 343,
+    "name": "Icehouse Bottle",
+    "genre": "Alcohol",
+    "description": "Icehouse Bottle is a classic beer choice with a crisp taste, making it ideal for beer enthusiasts.",
+    "img": "/img/products/sss.png"
+  },
+  {
+    "id": 344,
+    "name": "Miller Lite Aluminum Bottle",
+    "genre": "Alcohol",
+    "description": "Miller Lite Aluminum Bottle offers the same great taste in a convenient and stylish aluminum packaging.",
+    "img": "/img/products/pint.png"
+  },
+  {
+    "id": 345,
+    "name": "Skittles Original 2.17 Oz",
+    "genre": "Sweets",
+    "description": "Skittles Original, with its vibrant and fruity flavors, is a delightful treat for Sweets lovers.",
+    "img": "/img/products/skit.jpg"
+  },
+  {
+    "id": 346,
+    "name": "M&Ms Milk Chocolate Share Size - 3.14 Oz",
+    "genre": "Chocolate",
+    "description": "M&Ms Milk Chocolate Share Size is a classic chocolate snack, perfect for sharing or indulging on your own.",
+    "img": "/img/products/mmmm.png"
+  },
+
+  {
+    "id": 347,
+    "name": "M&Ms Peanut Share Size 3.27 Oz",
+    "genre": "Chocolate",
+    "description": "Indulge in the delightful combination of roasted peanuts and smooth milk chocolate with M&Ms Peanut Share Size, perfect for sharing or savoring on your own.",
+    "img": "/img/products/nuts.jpg"
+  },
+  {
+    "id": 348,
+    "name": "Twix Cookie Bars",
+    "genre": "Chocolate",
+    "description": "Twix Cookie Bars offer a delectable mix of crunchy biscuit, luscious caramel, and silky milk chocolate, providing a satisfying treat for your taste buds.",
+    "img": "/img/products/twix.png"
+  },
+  {
+    "id": 349,
+    "name": "Skittles Original Share Size - 4 Oz",
+    "genre": "Sweets",
+    "description": "Experience the burst of fruity flavors with Skittles Original Share Size, perfect for sharing joy or enjoying a colorful treat on your own.",
+    "img": "/img/products/skit.jpg"
+  },
+  {
+    "id": 350,
+    "name": "3 Musketeers Chocolate Sweets Bar -1.92 Oz",
+    "genre": "Chocolate",
+    "description": "Delight in the airy and chocolatey goodness of 3 Musketeers Chocolate Sweets Bar, a light and satisfying confection for moments of sweet cravings.",
+    "img": "/img/products/musk.jpg"
+  },
+  {
+    "id": 351,
+    "name": "Snickers Sweets Bar - 1.86oz",
+    "genre": "Chocolate",
+    "description": "Savor the perfect blend of nougat, caramel, peanuts, and chocolate with Snickers Sweets Bar, a classic and energizing treat for any time of the day.",
+    "img": "/img/products/snickers.jpg"
+  },
+  {
+    "id": 352,
+    "name": "Sour Punch Blue Raspberry 24/2oz",
+    "genre": "Sweets",
+    "description": "Experience a tangy and sweet delight with Sour Punch Blue Raspberry, a perfect treat to satisfy your sour Sweets cravings.",
+    "img": "/img/products/h.png"
+  },
+  {
+    "id": 353,
+    "name": "Rainbow Rope Sweets",
+    "genre": "Sweets",
+    "description": "Unwrap the colorful and chewy goodness of Rainbow Rope Sweets, a delightful treat that combines fruity flavors in every bite.",
+    "img": "/img/products/rain.jpg"
+  },
+  {
+    "id": 354,
+    "name": "Coca-Cola Cherry 24O Btl",
+    "genre": "Beverages",
+    "description": "Quench your thirst with the bold and refreshing taste of Coca-Cola Cherry, a fizzy beverage that combines the classic cola flavor with a hint of cherry.",
+    "img": "/img/products/cola.jpg"
+  },
+  {
+    "id": 355,
+    "name": "Coke",
+    "genre": "Beverages",
+    "description": "Enjoy the timeless and iconic taste of Coke, a carbonated beverage that has been a favorite for generations, providing a satisfying and bubbly refreshment.",
+    "img": "/img/products/coke.jpg"
+  },
+  {
+    "id": 356,
+    "name": "Coca-Cola Classic 20O Bt",
+    "genre": "Beverages",
+    "description": "Experience the classic and effervescent flavor of Coca-Cola Classic, a beloved soda that never fails to deliver a crisp and satisfying taste.",
+    "img": "/img/products/ela.jpg"
+  },
+  {
+    "id": 357,
+    "name": "Sprite Lemon-Lime 20O Btl",
+    "genre": "Beverages",
+    "description": "Quench your thirst with the zesty and lemon-lime goodness of Sprite, a bubbly beverage that provides a burst of citrus refreshment.",
+    "img": "/img/products/sprite.png"
+  },
+  {
+    "id": 358,
+    "name": "Dasani Purified Water 20O Btl",
+    "genre": "Beverages",
+    "description": "Stay hydrated with the pure and refreshing taste of Dasani Purified Water, a convenient and reliable choice to keep you refreshed throughout the day.",
+    "img": "/img/products/sad.jpg"
+  },
+  {
+    "id": 359,
+    "name": "Mello Yello Citrus Flavored Soda 20O Bottle",
+    "genre": "Beverages",
+    "description": "Experience the bold and citrusy flavor of Mello Yello Citrus Flavored Soda, a fizzy drink that provides a burst of energy and refreshment.",
+    "img": "/img/products/yello.jpg"
+  },
+  {
+    "id": 360,
+    "name": "Barq's Root Beer 20O Bottle",
+    "genre": "Beverages",
+    "description": "Indulge in the rich and creamy taste of Barq's Root Beer, a classic soda with a satisfying blend of sweet and sassy flavors.",
+    "img": "/img/products/frut.jpg"
+  },
+  {
+    "id": 361,
+    "name": "Fanta Grape 20O Btl",
+    "genre": "Beverages",
+    "description": "Sip on the sweet and fruity goodness of Fanta Grape, a vibrant soda that captures the essence of juicy grapes in every fizzy sip.",
+    "img": "/img/products/york.png"
+  },
+  {
+    "id": 362,
+    "name": "Dasani Purified Water",
+    "genre": "Beverages",
+    "description": "Quench your thirst with the crisp and clean taste of Dasani Purified Water, a refreshing choice for staying hydrated throughout your day.",
+    "img": "/img/products/sad.jpg"
+  },
+  {
+    "id": 363,
+    "name": "Coca-Cola Zero Zero Calorie Cola 24O Bottle",
+    "genre": "Beverages",
+    "description": "Enjoy the guilt-free and satisfying taste of Coca-Cola Zero, a zero-calorie cola that doesn't compromise on the classic Coca-Cola flavor.",
+    "img": "/img/products/sugar.jpg"
+  },
+  {
+    "id": 364,
+    "name": "Coca-Cola Original 67.6O Btl",
+    "genre": "Beverages",
+    "description": "Immerse yourself in the generous serving of Coca-Cola Original, a large bottle that brings the timeless and effervescent cola experience to the next level.",
+    "img": "/img/products/del.jpg"
+  },
+  {
+    "id": 365,
+    "name": "Mello Yello Citrus Flavored Soda 24O Bottle",
+    "genre": "Beverages",
+    "description": "Experience the bold and zesty kick of Mello Yello Citrus Flavored Beverages in a larger 24-ounce bottle, perfect for those who crave more citrusy refreshment.",
+    "img": "/img/products/allo.png"
+  },
+  {
+    "id": 366,
+    "name": "Powerade Mountain Berry Blast 28O Btl",
+    "genre": "Beverages",
+    "description": "Rehydrate and replenish with Powerade Mountain Berry Blast, a sports drink that delivers a burst of berry flavor and essential electrolytes to keep you going.",
+    "img": "/img/products/power.png"
+  },
+  {
+    "id": 367,
+    "name": "Monster Drink",
+    "genre": "Beverages",
+    "description": "Monster Energy is a brand of energy drink that is known for its distinctive green and black packaging. It is produced by Monster Beverage Corporation, an American functional beverage company..",
+    "img": "/img/products/monster.png"
+  },
+  {
+    "id": 368,
+    "name": "V8 Orig Vegetable Juice 11.5O Can",
+    "genre": "Vegetable",
+    "description": "Fuel your day with the nutritious blend of V8 Original Vegetable Juice, packed with the goodness of eight vegetables for a refreshing and healthful drink.",
+    "img": "/img/products/v.png"
+  },
+  {
+    "id": 369,
+    "name": "Swad Green Chana 4Lb",
+    "genre": "Grains",
+    "description": "Add a nutritious touch to your meals with Swad Green Chana, a versatile and flavorful option for various culinary creations.",
+    "img": "/img/products/swad.png"
+  },
+  {
+    "id": 370,
+    "name": "Swad Sabudana 4Lb",
+    "genre": "Flour",
+    "description": "Explore the culinary possibilities with Swad Sabudana, a high-quality and essential ingredient for preparing delicious and wholesome dishes.",
+    "img": "/img/products/sud.jpg"
+  },
+  {
+    "id": 371,
+    "name": "Swad Chakki Atta 4Lbs",
+    "genre": "Flour",
+    "description": "Create perfect and fluffy rotis with Swad Chakki Atta, a premium whole wheat flour that ensures the authentic taste and texture of your favorite Indian bread.",
+    "img": "/img/products/chakki.jpg"
+  },
+  {
+    "id": 372,
+    "name": "Swad Samo Seeds",
+    "genre": "Grains",
+    "description": "Enhance your cooking with Swad Samo Seeds, a must-have ingredient for making delicious and wholesome dishes during fasting or regular days.",
+    "img": "/img/products/town.png"
+  },
+  {
+    "id": 373,
+    "name": "Swad Chakki Atta",
+    "genre": "Flour",
+    "description": "Experience the goodness of Swad Chakki Atta, a versatile and nutritious whole wheat flour that elevates the taste of your homemade bread and other baked delights.",
+    "img": "/img/products/chakki.jpg"
+  },
+  {
+    "id": 374,
+    "name": "Swad All Purpose Flour 2Lb",
+    "genre": "Flour",
+    "description": "Bake your favorite treats with Swad All Purpose Flour, a kitchen essential that guarantees the perfect texture and taste in your cakes, cookies, and more.",
+    "img": "/img/products/maida.jpg"
+  },
+  {
+    "id": 375,
+    "name": "Swad White Corn Flour 2Lb",
+    "genre": "Flour",
+    "description": "Add a velvety texture to your dishes with Swad White Corn Flour, an essential ingredient for thickening sauces, gravies, and creating delightful desserts.",
+    "img": "/img/products/fi.jpg"
+  },
+  {
+    "id": 376,
+    "name": "Swad Gold Raisins 28Oz",
+    "genre": "Flour",
+    "description": "Savor the natural sweetness and health benefits of Swad Gold Raisins, a delicious and nutrient-rich snack that adds a burst of flavor to your daily routine.",
+    "img": "/img/products/golld.jpg"
+  },
+  {
+    "id": 377,
+    "name": "Swad Tamarind Date 8Oz",
+    "genre": "Pickles",
+    "description": "Enhance the flavor of your dishes with Swad Tamarind Date, a unique and tangy condiment that adds depth and richness to a variety of culinary creations.",
+    "img": "/img/products/ch.jpg"
+  },
+  {
+    "id": 378,
+    "name": "Swad Green Chilli 7.5Oz",
+    "genre": "Pickles",
+    "description": "Spice up your meals with Swad Green Chilli, a zesty and flavorful condiment that adds a kick of heat to your favorite recipes.",
+    "img": "/img/products/swd.png"
+  },
+  {
+    "id": 379,
+    "name": "Swad Panipuri Masala",
+    "genre": "Spices",
+    "description": "Elevate the taste of your panipuris with Swad Panipuri Masala, a perfectly blended spice mix that brings authentic flavors to this popular Indian street food.",
+    "img": "/img/products/masala.jpg"
+  },
+  {
+    "id": 380,
+    "name": "Swad Coconut Chutney",
+    "genre": "Pickles",
+    "description": "Enjoy the authentic taste of South India with Swad Coconut Chutney, a flavorful and versatile condiment that complements dosas, idlis, and various dishes.",
+    "img": "/img/products/taste.jpg"
+  },
+  {
+    "id": 381,
+    "name": "Swad Masala Chilli Ketchup",
+    "genre": "Spices",
+    "description": "Add a spicy twist to your meals with Swad Masala Chilli Ketchup, a bold and flavorful condiment that enhances the taste of burgers, fries, and more.",
+    "img": "/img/products/mal.jpg"
+  },
+  {
+    "id": 382,
+    "name": "Swad Hot & Sweet Ketchup",
+    "genre": "Condiment",
+    "description": "Experience the perfect balance of heat and sweetness with Swad Hot & Sweet Ketchup, a versatile condiment that complements a variety of snacks and dishes.",
+    "img": "/img/products/gandi.jpg"
+  },
+  {
+    "id": 383,
+    "name": "Swad Garlic Paste 24oz",
+    "genre": "Condiment",
+    "description": "Simplify your cooking with Swad Garlic Paste, a convenient and flavorful addition to your kitchen that adds the rich taste of garlic to your favorite recipes.",
+    "img": "/img/products/garlicc.png"
+  },
+  {
+    "id": 384,
+    "name": "Swad Bhel Chutney",
+    "genre": "Condiment",
+    "description": "Enhance the flavor of your bhel puri with Swad Bhel Chutney, a tangy and spicy condiment that adds an authentic taste to this popular Indian street snack.",
+    "img": "/img/products/puri.png"
+  },
+  {
+    "id": 385,
+    "name": "Swad Panipuri Concentrate 310G",
+    "genre": "Condiment",
+    "description": "Prepare delicious panipuris with ease using Swad Panipuri Concentrate, a concentrated and flavorful blend that captures the essence of this beloved street food.",
+    "img": "/img/products/gram.png"
+  },
+  {
+    "id": 386,
+    "name": "Swad Mango Pickle",
+    "genre": "Pickles",
+    "description": "Savor the traditional taste of Swad Mango Pickle, a tangy and spicy condiment that adds a burst of flavor to your meals and complements a variety of dishes.",
+    "img": "/img/products/mitho.png"
+  },
+  {
+    "id": 387,
+    "name": "Swad Mild Pickle",
+    "genre": "Pickles",
+    "description": "Enjoy the mild and flavorful taste of Swad Mild Pickle, a versatile condiment that adds a touch of tanginess to your meals without overwhelming your palate.",
+    "img": "/img/products/dd.jpg"
+  },
+  {
+    "id": 388,
+    "name": "Swad Mixed Pickle",
+    "genre": "Pickles",
+    "description": "Experience a medley of flavors with Swad Mixed Pickle, a delightful combination of various pickled vegetables that adds a zing to your meals.",
+    "img": "/img/products/ac.png"
+  },
+  {
+    "id": 389,
+    "name": "Swad Garlic Pickle",
+    "genre": "Pickles",
+    "description": "Add a punch of garlic goodness to your meals with Swad Garlic Pickle, a savory and aromatic condiment that complements a variety of dishes.",
+    "img": "/img/products/ggg.png"
+  },
+  {
+    "id": 390,
+    "name": "Swad Gor Keri Pickle 350gm",
+    "genre": "Pickles",
+    "description": "Indulge in the sweet and tangy taste of Swad Gor Keri Pickle, a flavorful and traditional pickle made from ripe mangoes for a delightful culinary experience.",
+    "img": "/img/products/pppp.png"
+  },
+  {
+    "id": 391,
+    "name": "Swad Cinnamon Flat 100G",
+    "genre": "Spices",
+    "description": "Add warmth and depth to your dishes with Swad Cinnamon Flat, a fragrant spice that brings a touch of sweetness and complexity to both sweet and savory recipes.",
+    "img": "/img/products/to.png"
+  },
+  {
+    "id": 392,
+    "name": "Swad Methi 14Oz",
+    "genre": "Grains",
+    "description": "Enhance the flavor of your dishes with Swad Methi, a versatile spice that adds a distinctive and slightly bitter taste, perfect for both Indian and global cuisines.",
+    "img": "/img/products/seeds.jpg"
+  },
+  {
+    "id": 393,
+    "name": "Swad Paprika 400G",
+    "genre": "Spices",
+    "description": "Add vibrant color and a mild heat to your culinary creations with Swad Paprika, a versatile spice that elevates the visual appeal of your dishes.",
+    "img": "/img/products/pap.jpg"
+  },
+  {
+    "id": 394,
+    "name": "Swad Poppy Seeds 400gms",
+    "genre": "Spices",
+    "description": "Explore new flavors and textures with Swad Poppy Seeds, a unique and nutty spice that adds a delightful crunch to your baked goods and savory dishes.",
+    "img": "/img/products/add.png"
+  },
+  {
+    "id": 395,
+    "name": "Gatorade Fruit Punch 28O Btl",
+    "genre": "Beverages",
+    "description": "Rehydrate and refuel with the tropical and refreshing taste of Gatorade Fruit Punch, a sports drink that delivers essential electrolytes to keep you at your best.",
+    "img": "/img/products/g.jpg"
+  },
+  {
+    "id": 396,
+    "name": "Gatorade Frost Glacier Freeze 28O Btl",
+    "genre": "Beverages",
+    "description": "Cool down and replenish with Gatorade Frost Glacier Freeze, a sports drink that combines the chilling taste of glacier freeze with the performance-boosting benefits you need.",
+    "img": "/img/products/coo.png"
+  },
+  {
+    "id": 397,
+    "name": "Gatorade Zero Zero Sugar Thirst Quencher Cool Blue- 28 Fl Oz",
+    "genre": "Beverages",
+    "description": "Stay refreshed without the calories with Gatorade Zero Sugar Thirst Quencher Cool Blue, a flavorful sports drink that hydrates and replenishes without added sugars.",
+    "img": "/img/products/zero.png"
+  },
+  {
+    "id": 398,
+    "name": "Gatorade Lemon-Lime",
+    "genre": "Beverages",
+    "description": "Elevate your performance with the crisp and zesty flavor of Gatorade Lemon-Lime, a sports drink that rehydrates and replenishes electrolytes for peak athletic endurance.",
+    "img": "/img/products/sports.png"
+  },
+  {
+    "id": 399,
+    "name": "Ahmed Mixed Pickle 1kg",
+    "genre": "Pickles",
+    "description": "Indulge in the rich and savory taste of Ahmed Mixed Pickle, a flavorful medley of mixed vegetables and spices for a delightful and traditional culinary experience.",
+    "img": "/img/products/ah.jpg"
+  },
+  {
+    "id": 400,
+    "name": "Ahmed Kewra Food Essence 300Ml",
+    "genre": "Beverages",
+    "description": "Enhance the aroma and flavor of your dishes with Ahmed Kewra Food Essence, a fragrant and versatile essence that adds a touch of sophistication to your culinary creations.",
+    "img": "/img/products/kew.jpg"
+  },
+  {
+    "id": 401,
+    "name": "Ahmed Chilli Garlic Sauce 10.58Oz",
+    "genre": "Spices",
+    "description": "Spice up your meals with Ahmed Chilli Garlic Sauce, a bold and flavorful sauce that combines the heat of chili with the rich and savory notes of garlic.",
+    "img": "/img/products/c.jpg"
+  },
+  {
+    "id": 402,
+    "name": "Ahmed Garlic Ginger Paste",
+    "genre": "Pickles",
+    "description": "Simplify your cooking with Ahmed Garlic Ginger Paste, a convenient and aromatic blend of garlic and ginger that adds depth and richness to your favorite recipes.",
+    "img": "/img/products/a.png"
+  },
+  {
+    "id": 403,
+    "name": "Ahmed Mixed Pickle",
+    "genre": "Pickles",
+    "description": "Experience the authentic taste of Ahmed Mixed Pickle, a flavorful combination of pickled vegetables and spices that adds a zing to your meals.",
+    "img": "/img/products/prod.png"
+  },
+
+  {
+    "id": 404,
+    "name": "Sunrise Farm Raised Swai Fish Steak 32oz",
+    "genre": "Seafood",
+    "description": "Indulge in the exquisite taste of Sunrise Farm Raised Swai Fish Steak, sourced from quality farms to bring you a delicious and nutritious seafood experience.",
+    "img": "/img/products/ricee.png"
+  },
+  {
+    "id": 405,
+    "name": "Samyang Hot Chicken Ramen - 2X Spicy, 140g",
+    "genre": "Noodles",
+    "description": "Experience a fiery kick with Samyang Hot Chicken Ramen - 2X Spicy, a popular noodle dish known for its intense heat and bold flavor that will awaken your taste buds.",
+    "img": "/img/products/ramen.png"
+  },
+  {
+    "id": 406,
+    "name": "Royal Basmati Rice - 20lbs",
+    "genre": "Rice",
+    "description": "Elevate your meals with the fragrant and premium quality of Royal Basmati Rice, known for its long grains, aromatic fragrance, and authentic taste.",
+    "img": "/img/products/basmati.png"
+  },
+  {
+    "id": 407,
+    "name": "Ashoka Punjabi Samosa 25 PC",
+    "genre": "Appetizers",
+    "description": "Savor the authentic flavors of Punjab with Ashoka Punjabi Samosa, a delightful appetizer filled with spiced potatoes and peas, wrapped in a crispy, golden crust.",
+    "img": "/img/products/pun.png"
+  },
+  {
+    "id": 408,
+    "name": "WAI WAI Chicken Flavored Instant Noodles - 7.6 oz",
+    "genre": "Noodles",
+    "description": "Enjoy the rich and savory taste of WAI WAI Chicken Flavored Instant Noodles, a quick and delicious meal option that brings the flavors of chicken to your table.",
+    "img": "/img/products/cg.png"
+  },
+  {
+    "id": 409,
+    "name": "Monster Energy Drink",
+    "genre": "Beverages",
+    "description": "Get a boost of energy with Monster Energy Drink, a refreshing and invigorating beverage that keeps you fueled and ready to tackle whatever comes your way.",
+    "img": "/img/products/mons.png"
+  },
+  {
+    "id": 410,
+    "name": "Wagh Bakri Tea 2 lbs",
+    "genre": "Tea",
+    "description": "Experience the rich and aromatic blend of Wagh Bakri Tea, a timeless classic that brings you the authentic taste of Indian tea in every comforting sip.",
+    "img": "/img/products/bakri.png"
+  },
+  {
+    "id": 411,
+    "name": "Samyang Ramen - Spicy Chicken Roasted Noodles, 4.93oz",
+    "genre": "Noodles",
+    "description": "Indulge in the bold and spicy flavor of Samyang Ramen - Spicy Chicken Roasted Noodles, a popular choice for those who crave an extra kick in their noodle experience.",
+    "img": "/img/products/ram.png"
+  },
+  {
+    "id": 412,
+    "name": "Royal Himalayan Chicken Momo",
+    "genre": "Appetizers",
+    "description": "Delight your taste buds with the Royal Himalayan Chicken Momo, a savory and flavorful dumpling filled with seasoned chicken, perfect for a delicious snack or meal.",
+    "img": "/img/products/royal.png"
+  },
+  {
+    "id": 413,
+    "name": "Royal, Sona Masoori Rice, 20 Poundlb",
+    "genre": "Rice",
+    "description": "Experience the premium quality of Royal Sona Masoori Rice, known for its short grains, aromatic fragrance, and versatile use in a variety of dishes.",
+    "img": "/img/products/masor.png"
+  },
+  {
+    "id": 414,
+    "name": "Haldiram Bulk Punjabi Samosa 1.4 kg",
+    "genre": "Appetizers",
+    "description": "Serve a crowd with the deliciousness of Haldiram Bulk Punjabi Samosa, a convenient and flavorful option for gatherings and events.",
+    "img": "/img/products/haldi.png"
+  },
+  {
+    "id": 415,
+    "name": "Nanak Pure Desi Ghee - 400g",
+    "genre": "Dairy",
+    "description": "Add richness to your cooking with Nanak Pure Desi Ghee, a golden and flavorful clarified butter that enhances the taste and aroma of your favorite dishes.",
+    "img": "/img/products/gh.png"
+  },
+  {
+    "id": 416,
+    "name": "WAI WAI Instant Vegetarian Noodles - 75 G",
+    "genre": "Noodles",
+    "description": "Delight in the quick and tasty WAI WAI Instant Vegetarian Noodles, a vegetarian-friendly noodle option that promises a satisfying and flavorful meal.",
+    "img": "/img/products/wai.png"
+  },
+  {
+    "id": 417,
+    "name": "Haldiram's Motichoor Ladoo 360g",
+    "genre": "Sweets",
+    "description": "Indulge your sweet tooth with the delectable Haldiram's Motichoor Ladoo, a classic Indian sweet made from fine gram flour pearls and infused with aromatic cardamom.",
+    "img": "/img/products/ladu.png"
+  },
+  {
+    "id": 418,
+    "name": "Tilda Pure Basmati Rice, Premium Aromatic and Authentic Rice",
+    "genre": "Rice",
+    "description": "Savor the authentic taste of Tilda Pure Basmati Rice, known for its premium quality, long grains, and aromatic flavor that elevates your dining experience.",
+    "img": "/img/products/r.png"
+  },
+  {
+    "id": 419,
+    "name": "Himalayan Momo Dumplings Paneer Cheese",
+    "genre": "Appetizers",
+    "description": "Experience the delightful fusion of flavors with Himalayan Momo Dumplings filled with Paneer Cheese, a perfect blend of traditional momo and creamy cheese goodness.",
+    "img": "/img/products/momo.png"
+  },
+  {
+    "id": 409,
+    "name": "Haldiram's Milk Cake 400 Grams",
+    "genre": "Sweets",
+    "description": "Treat yourself to the sweet and milky goodness of Haldiram's Milk Cake, a delectable Indian sweet that melts in your mouth.",
+    "img": "/img/products/cake.png"
+  },
+  {
+    "id": 410,
+    "name": "Maggi Noodles, Indian, Masala, Export Pack - 1.23 lb",
+    "genre": "Noodles",
+    "description": "Enjoy the iconic taste of Maggi Noodles, Indian Masala flavor, in an export pack that delivers the perfect blend of spices and noodles for a quick and tasty meal.",
+    "img": "/img/products/magi.png"
+  },
+  {
+    "id": 411,
+    "name": "Brooke Bond, Red Label Loose Leaf Black Tea",
+    "genre": "Tea",
+    "description": "Savor the robust flavor of Brooke Bond Red Label Loose Leaf Black Tea, a timeless classic that promises a rich and invigorating tea-drinking experience.",
+    "img": "/img/products/bro.png"
+  },
+  {
+    "id": 412,
+    "name": "Kawan Chappatis - 30 Piece",
+    "genre": "Bakery",
+    "description": "Enjoy the convenience of Kawan Chappatis, a pack of 30 soft and fluffy Indian bread that pairs perfectly with a variety of dishes.",
+    "img": "/img/products/chap.png"
+  },
+  {
+    "id": 413,
+    "name": "Haldiram's Frozen Kaju Katli",
+    "genre": "Sweets",
+    "description": "Indulge in the richness of Haldiram's Frozen Kaju Katli, a popular Indian sweet made from cashews, ghee, and sugar, offering a perfect blend of flavor and texture.",
+    "img": "/img/products/kitloi.png"
+  },
+  {
+    "id": 414,
+    "name": "Shahnawaz Chicken Tikka Boneless - 10 oz",
+    "genre": "Meat",
+    "description": "Satisfy your cravings with Shahnawaz Chicken Tikka Boneless, succulent pieces of boneless chicken marinated in flavorful spices and ready to be cooked to perfection.",
+    "img": "/img/products/ti.png"
+  },
+  {
+    "id": 415,
+    "name": "Nanak Foods Gulab Jamun",
+    "genre": "Sweets",
+    "description": "Delight in the sweetness of Nanak Foods Gulab Jamun, soft and spongy milk dumplings soaked in aromatic sugar syrup, creating a heavenly dessert experience.",
+    "img": "/img/products/juman.png"
+  },
+  {
+    "id": 416,
+    "name": "Roshni Chana dal - per lb",
+    "genre": "Pulses",
+    "description": "Include the wholesome Roshni Chana dal in your cooking, a nutritious and protein-packed option for a variety of Indian dishes.",
+    "img": "/img/products/roshni.png"
+  },
+  {
+    "id": 417,
+    "name": "Haldiram's Bulk Mixed Veg Parantha 1.6 kg",
+    "genre": "Bakery",
+    "description": "Stock up on Haldiram's Bulk Mixed Veg Parantha for a convenient and delicious addition to your meals, featuring a flavorful stuffing of mixed vegetables.",
+    "img": "/img/products/minute.png"
+  },
+  {
+    "id": 418,
+    "name": "Nanak Kaju Katli 255g",
+    "genre": "Sweets",
+    "description": "Experience the richness of Nanak Kaju Katli, a classic Indian sweet made from cashews and sugar, offering a delightful blend of nutty flavors and sweetness.",
+    "img": "/img/products/kaju.png"
+  },
+  {
+    "id": 419,
+    "name": "Nanak Rasmalai 1 KG- 20 Pieces",
+    "genre": "Sweets",
+    "description": "Indulge in the luxurious taste of Nanak Rasmalai, a delectable dessert featuring soft cheese dumplings immersed in sweet, saffron-infused milk.",
+    "img": "/img/products/sas.png"
+  },
+  {
+    "id": 420,
+    "name": "Haldiram Mathura Peda - 340 G",
+    "genre": "Sweets",
+    "description": "Treat yourself to the authentic taste of Haldiram Mathura Peda, a traditional Indian sweet made from condensed milk and flavored with cardamom, offering a rich and indulgent experience.",
+    "img": "/img/products/peda.png"
+  },
+  {
+    "id": 421,
+    "name": "Aashirvaad Whole Wheat Atta - 10kg",
+    "genre": "Flour",
+    "description": "Choose the goodness of Aashirvaad Whole Wheat Atta, a premium quality flour that brings you the wholesome benefits of whole wheat for your daily cooking needs.",
+    "img": "/img/products/atta.png"
+  },
+  {
+    "id": 422,
+    "name": "Haldiram's All in One Mix - 400g",
+    "genre": "Snacks",
+    "description": "Experience a burst of flavors with Haldiram's All in One Mix, a delightful blend of savory snacks that offers a perfect balance of spice and crunch for your snacking pleasure.",
+    "img": "/img/products/all.png"
+  },
+  {
+    "id": 423,
+    "name": "Balaji Traders Nepali Bhuja (Puffed Rice)",
+    "genre": "Snacks",
+    "description": "Enjoy the light and crispy goodness of Balaji Traders Nepali Bhuja, a classic puffed rice snack that delights your taste buds with every crunchy bite.",
+    "img": "/img/products/bhuja.png"
+  },
+  {
+    "id": 424,
+    "name": "Haldiram's Bhujia 1kg",
+    "genre": "Snacks",
+    "description": "Add a flavorful crunch to your snacks with Haldiram's Bhujia, a popular and savory snack made from sev and spices that perfectly complements your tea time.",
+    "img": "/img/products/bh.png"
+  },
+  {
+    "id": 425,
+    "name": "Haldiram's Aloo Bhujia - 1kg",
+    "genre": "Snacks",
+    "description": "Satisfy your cravings with the delicious taste of Haldiram's Aloo Bhujia, a crunchy and flavorful snack made from grated potatoes and selected spices.",
+    "img": "/img/products/gr.png"
+  },
+  {
+    "id": 426,
+    "name": "Haldiram's Bombay Mix - 400g",
+    "genre": "Snacks",
+    "description": "Experience the perfect blend of flavors with Haldiram's Bombay Mix, a classic snack mix that combines crunchy noodles, peanuts, and spices for a delightful treat.",
+    "img": "/img/products/bombay.png"
+  },
+  {
+    "id": 427,
+    "name": "Haldiram's Dry Samosa Snack - 400g",
+    "genre": "Snacks",
+    "description": "Enjoy the authentic taste of Haldiram's Dry Samosa Snack, a crispy and savory snack that captures the essence of traditional samosas in a convenient, ready-to-eat form.",
+    "img": "/img/products/samsa.png"
+  },
+  {
+    "id": 428,
+    "name": "Haldiram's Classic Indian Gulab Jamun",
+    "genre": "Sweets",
+    "description": "Indulge in the sweetness of Haldiram's Classic Indian Gulab Jamun, soft and spongy milk dumplings soaked in aromatic sugar syrup, creating a delightful dessert experience.",
+    "img": "/img/products/jum.png"
+  },
+  {
+    "id": 429,
+    "name": "Haldiram's Phulka Roti - 12 Pieces, 360g",
+    "genre": "Bakery",
+    "description": "Enjoy the soft and fluffy Haldiram's Phulka Roti, a pack of 12 pieces that complements a variety of dishes and adds a delightful touch to your meals.",
+    "img": "/img/products/khana.png"
+  },
+  {
+    "id": 430,
+    "name": "Haldiram's Bhujia - Plain",
+    "genre": "Snacks",
+    "description": "Experience the simplicity and deliciousness of Haldiram's Bhujia - Plain, a classic snack that offers a satisfying crunch and authentic flavor in every bite.",
+    "img": "/img/products/haldiram.png"
+  },
+  {
+    "id": 431,
+    "name": "Pran Juice Drink - Mango, 1.5L",
+    "genre": "Beverages",
+    "description": "Quench your thirst with the tropical goodness of Pran Juice Drink in Mango flavor, a refreshing beverage that captures the natural sweetness of ripe mangoes.",
+    "img": "/img/products/pran.png"
+  },
+  {
+    "id": 432,
+    "name": "Maggi Masala 2 Minute Instant Noodles - 6 Pieces Pack",
+    "genre": "Noodles",
+    "description": "Enjoy a quick and delicious meal with Maggi Masala 2 Minute Instant Noodles, a convenient pack of 6 that brings you the iconic taste of Maggi in minutes.",
+    "img": "/img/products/dies.png"
+  },
+  {
+    "id": 433,
+    "name": "Rato Bhale Nepali Red Taichin Chiura (Beaten Rice)",
+    "genre": "Rice",
+    "description": "Experience the traditional goodness of Rato Bhale Nepali Red Taichin Chiura, beaten rice with a red hue that is perfect for a variety of Nepali and Indian dishes.",
+    "img": "/img/products/bhar.png"
+  },
+  {
+    "id": 434,
+    "name": "Haldirams Khatta Meetha - 1kg",
+    "genre": "Snacks",
+    "description": "Satisfy your snack cravings with Haldirams Khatta Meetha, a delightful mix of sweet and tangy flavors in every bite, perfect for snacking anytime, anywhere.",
+    "img": "/img/products/gt.png"
+  },
+  {
+    "id": 435,
+    "name": "Haldiram's Nut Cracker Snacks, 1 kg",
+    "genre": "Snacks",
+    "description": "Crack open the goodness with Haldiram's Nut Cracker Snacks, a wholesome mix of nuts and spices that delivers a satisfying crunch with every bite.",
+    "img": "/img/products/nut.png"
+  },
+  {
+    "id": 436,
+    "name": "Haldiram's Chatpata Matar",
+    "genre": "Snacks",
+    "description": "Experience the zing of Haldiram's Chatpata Matar, a spicy and flavorful snack that combines roasted green peas with a medley of spices for a truly delicious treat.",
+    "img": "/img/products/matar.png"
+  },
+  {
+    "id": 437,
+    "name": "Royal Organic Sona Masoori Rice, 20 Pound",
+    "genre": "Rice",
+    "description": "Choose the organic goodness of Royal Organic Sona Masoori Rice, a premium rice variety that brings you the wholesome benefits of organic farming in every grain.",
+    "img": "/img/products/organic.png"
+  },
+  {
+    "id": 438,
+    "name": "Samyang Hot Chicken Flavor Ramen Buldak Carbonara Noodles, Pack of 5 P",
+    "genre": "Noodles",
+    "description": "Indulge in the creamy and spicy goodness of Samyang Hot Chicken Flavor Ramen Buldak Carbonara Noodles, a pack of 5 that offers a delightful twist to the classic spicy noodles.",
+    "img": "/img/products/nood.png"
+  },
+  {
+    "id": 439,
+    "name": "Haldiram's Mix Veg Paratha 4 Pack",
+    "genre": "Bakery",
+    "description": "Enjoy the authentic taste of Haldiram's Mix Veg Paratha, a pack of 4 that brings you the goodness of stuffed parathas filled with a flavorful mix of vegetables.",
+    "img": "/img/products/paratha.png"
+  },
+  {
+    "id": 440,
+    "name": "Haldirams Aloo Bhujia Spicy Potato Fingers Noodles - 400g",
+    "genre": "Snacks",
+    "description": "Savor the spicy goodness of Haldirams Aloo Bhujia Spicy Potato Fingers Noodles, a flavorful and crunchy snack that packs a punch of potato and spices in every bite.",
+    "img": "/img/products/ia.png"
+  },
+  {
+    "id": 441,
+    "name": "Indian National Sona Masuri Rice - 320 oz",
+    "genre": "Rice",
+    "description": "Experience the premium quality of Indian National Sona Masuri Rice, a versatile rice variety known for its aromatic fragrance, short grains, and exceptional taste.",
+    "img": "/img/products/masori.png"
+  },
+  {
+    "id": 442,
+    "name": "Current Noodles (100gm*5) pack",
+    "genre": "Noodles",
+    "description": "Treat yourself to the convenience of Current Noodles, a pack of 5 that offers quick and delicious noodles, perfect for a satisfying meal anytime, anywhere.",
+    "img": "/img/products/cur.png"
+  },
+  {
+    "id": 443,
+    "name": "Laxmi brand Extra long grain Basmati rice 10Lb",
+    "genre": "Rice",
+    "description": "Indulge in the extra-long grain goodness of Laxmi brand Basmati Rice, a premium rice variety that adds a touch of luxury to your meals with its exquisite taste and aroma.",
+    "img": "/img/products/free.jpg"
+  },
+  {
+    "id": 444,
+    "name": "Parliament Low Gi BASMATIC Rice - Diabetic 20 lbs",
+    "genre": "Rice",
+    "description": "Choose the health-conscious option with Parliament Low Gi BASMATIC Rice, a diabetic-friendly rice variety that combines low glycemic index with the aromatic goodness of basmati rice.",
+    "img": "/img/products/parli.png"
+  },
+  {
+    "id": 445,
+    "name": "Aashirvaad Whole Wheat Flour - 20 lbs",
+    "genre": "Flour",
+    "description": "Embrace the wholesomeness of Aashirvaad Whole Wheat Flour, a kitchen essential that brings you the nutritional goodness of whole wheat for your daily cooking needs.",
+    "img": "/img/products/whole.png"
+  },
+  {
+    "id": 446,
+    "name": "Kitchen King Basmati Rice - 10lbs",
+    "genre": "Rice",
+    "description": "Elevate your culinary creations with the premium quality of Kitchen King Basmati Rice, a long-grain rice variety that adds a touch of royalty to your meals.",
+    "img": "/img/products/kit.png"
+  },
+  {
+    "id": 447,
+    "name": "Haldirams Gulab Jamun - 1kg",
+    "genre": "Sweets",
+    "description": "Indulge in the sweet and syrupy delight of Haldirams Gulab Jamun, soft and spongy milk dumplings soaked in aromatic sugar syrup, creating a luscious dessert experience.",
+    "img": "/img/products/k.png"
+  },
+  {
+    "id": 448,
+    "name": "Current 2x Spicy Noodles",
+    "genre": "Noodles",
+    "description": "Experience the bold and spicy kick of Current 2x Spicy Noodles, a fiery noodle option for those who crave an extra punch of heat in their meals.",
+    "img": "/img/products/pac.png"
+  },
+  {
+    "id": 449,
+    "name": "Haldiram's Minute Khana Frozen Ajwain Paratha, 360 GM (6pcs)",
+    "genre": "Bakery",
+    "description": "Enjoy the convenience of Haldiram's Minute Khana Frozen Ajwain Paratha, a pack of 6 that brings you the goodness of ajwain-flavored parathas in minutes.",
+    "img": "/img/products/max.png"
+  },
+  {
+    "id": 450,
+    "name": "Nanak Kalakand - 18pc, 400g",
+    "genre": "Sweets",
+    "description": "Treat yourself to the rich and creamy Nanak Kalakand, a delightful Indian sweet made from paneer and milk, offering a decadent and indulgent dessert experience.",
+    "img": "/img/products/nan.png"
+  },
+  
+  {
+    "id": 451,
+    "name": "Haldirams Minute Khana Paneer Makhani - 10 oz",
+    "genre": "Ready-to-Eat",
+    "description": "Enjoy the rich and flavorful Haldirams Minute Khana Paneer Makhani, a convenient ready-to-eat dish that brings the authentic taste of paneer makhani to your table.",
+    "img": "/img/products/pa.png"
+  },
+  {
+    "id": 452,
+    "name": "Guard Ultimate Basmati Rice - 5kg",
+    "genre": "Rice",
+    "description": "Experience the excellence of Guard Ultimate Basmati Rice, a premium quality basmati rice that elevates your meals with its extra-long grains and aromatic fragrance.",
+    "img": "/img/products/guard.png"
+  },
+  {
+    "id": 453,
+    "name": "Royal Chef's Secret Extra Long Grain Basmati Rice - 10lbs",
+    "genre": "Rice",
+    "description": "Indulge in the culinary luxury of Royal Chef's Secret Extra Long Grain Basmati Rice, a top-quality basmati rice known for its exceptional length and exquisite taste.",
+    "img": "/img/products/sec.png"
+  },
+  {
+    "id": 454,
+    "name": "Asian Best Jasmine Rice - 5lbs",
+    "genre": "Rice",
+    "description": "Savor the fragrant delight of Asian Best Jasmine Rice, a high-quality jasmine rice that adds an aromatic touch to your meals with its fluffy and tender grains.",
+    "img": "/img/products/so.png"
+  },
+  {
+    "id": 455,
+    "name": "Parliament Lower Gi Basmati Rice - 10 lb (4.54 kg)",
+    "genre": "Rice",
+    "description": "Choose the health-conscious option with Parliament Lower Gi Basmati Rice, a diabetic-friendly rice variety that combines low glycemic index with the aromatic goodness of basmati rice.",
+    "img": "/img/products/gi.png"
+  },
+  {
+    "id": 456,
+    "name": "Suraj Brown Sesame Seeds - 200 G",
+    "genre": "Seeds",
+    "description": "Add a nutty and wholesome touch to your dishes with Suraj Brown Sesame Seeds, perfect for enhancing the flavor and texture of various culinary creations.",
+    "img": "/img/products/br.png"
+  },
+  {
+    "id": 457,
+    "name": "Corona Beer - 12 Pack",
+    "genre": "Beverages",
+    "description": "Quench your thirst with the refreshing taste of Corona Beer, a classic and popular choice for beer enthusiasts, now available in a convenient 12-pack.",
+    "img": "/img/products/xtra.png"
+  },
+  {
+    "id": 458,
+    "name": "Tilda Grand Extra Long Basmati Rice - 10 lb (4.54 kg)",
+    "genre": "Rice",
+    "description": "Elevate your culinary creations with the grandeur of Tilda Grand Extra Long Basmati Rice, a premium rice variety that adds a touch of sophistication to your meals.",
+    "img": "/img/products/tilda.png"
+  },
+  {
+    "id": 459,
+    "name": "Rum Pum Instant Noodle Chicken Soup Base 24 Pieces",
+    "genre": "Noodles",
+    "description": "Enjoy the convenience of Rum Pum Instant Noodle Chicken Soup, a quick and flavorful noodle option that makes for a delicious and satisfying meal.",
+    "img": "/img/products/pum.png"
+  },
+  {
+    "id": 460,
+    "name": "Laxmi All Natural Chappati Flour - 20lbs",
+    "genre": "Flour",
+    "description": "Embrace the goodness of Laxmi All Natural Chappati Flour, a versatile flour option that brings you the authentic taste of finely ground wheat for your chapatis and more.",
+    "img": "/img/products/chapa.png"
+  },
+  {
+    "id": 461,
+    "name": "Khazana Sona Masoori Rice - 20lb",
+    "genre": "Rice",
+    "description": "Experience the premium quality of Khazana Sona Masoori Rice, a versatile rice variety known for its aromatic fragrance, short grains, and exceptional taste.",
+    "img": "/img/products/khazana.png"
+  },
+  {
+    "id": 462,
+    "name": "Modelo Beer, Imported, Especial - 1 quart",
+    "genre": "Beverages",
+    "description": "Indulge in the imported goodness of Modelo Especial Beer, a premium brew that offers a distinct and satisfying taste, now available in a convenient 1-quart size.",
+    "img": "/img/products/modd.png"
+  },
+  {
+    "id": 463,
+    "name": "Modelo Especial Beer - 4x16oz",
+    "genre": "Beverages",
+    "description": "Savor the flavor of Modelo Especial Beer, now available in a convenient 4x16oz pack, offering you a refreshing and enjoyable drinking experience.",
+    "img": "/img/products/elo.png"
+  },
+  {
+    "id": 464,
+    "name": "Corona Extra Lager Mexican Beer",
+    "genre": "Beverages",
+    "description": "Enjoy the crisp and smooth taste of Corona Extra Lager Mexican Beer, a classic choice for beer enthusiasts, delivering a delightful drinking experience.",
+    "img": "/img/products/pll.png"
+  },
+  {
+    "id": 465,
+    "name": "Woodpecker Premium Beer 22oz Bottle",
+    "genre": "Beverages",
+    "description": "Treat yourself to the premium quality of Woodpecker Premium Beer, now available in a 22oz bottle, offering you a rich and satisfying beer-drinking experience.",
+    "img": "/img/products/o.png"
+  },
+  {
+    "id": 466,
+    "name": "Khazana Ultra Basmati Rice - 10 Pounds - Everfresh Marketplace - Delivered by Mercato",
+    "genre": "Rice",
+    "description": "Indulge in the ultra-quality of Khazana Ultra Basmati Rice, a premium rice variety that brings you the finest grains and aromatic fragrance, perfect for your culinary creations.",
+    "img": "/img/products/sella.png"
+  },
+  {
+    "id": 467,
+    "name": "Bikano Navratan Mixture",
+    "genre": "Snacks",
+    "description": "Satisfy your snack cravings with Bikano Navratan Mixture, a delightful mix of various savory elements that offers a burst of flavors and textures in every bite.",
+    "img": "/img/products/ture.png"
+  },
+  {
+    "id": 468,
+    "name": "Gits Ready Meals Masala Rice - 265g",
+    "genre": "Ready-to-Eat",
+    "description": "Experience the convenience of Gits Ready Meals Masala Rice, a flavorful and ready-to-eat meal that brings you the authentic taste of masala rice in minutes.",
+    "img": "/img/products/pal.png"
+  },
+  {
+    "id": 469,
+    "name": "Pran Mixed Pickle - 1 Kilogram - Mach Bazar - Delivered by Mercato",
+    "genre": "Pickles",
+    "description": "Add a burst of flavor to your meals with Pran Mixed Pickle, a delightful combination of assorted pickled vegetables that enhances the taste of your favorite dishes.",
+    "img": "/img/products/prann.png"
+  },
+  {
+    "id": 470,
+    "name": "Red Bull Energy Drink, The Winter Edition, Fig Apple - 12 fl oz",
+    "genre": "Beverages",
+    "description": "Experience the winter edition of Red Bull Energy Drink with Fig Apple flavor, a refreshing and energizing beverage that keeps you fueled and ready for any adventure.",
+    "img": "/img/products/win.png"
+  },
+  {
+    "id": 471,
+    "name": "Haldirams Minute Khana Dalmakhani with Rice 90g",
+    "genre": "Ready-to-Eat",
+    "description": "Enjoy the classic taste of Haldirams Minute Khana Dalmakhani with Rice, a convenient ready-to-eat dish that brings you the authentic flavors of dalmakhani in a quick and easy format.",
+    "img": "/img/products/with.png"
+  },
+  {
+    "id": 472,
+    "name": "Samyang Hot Chicken Curry Flavor Ramen Halah 4.93 oz (140g) X5",
+    "genre": "Noodles",
+    "description": "Spice up your meals with Samyang Hot Chicken Curry Flavor Ramen, a fiery and flavorful noodle option that adds a kick of curry goodness to your culinary creations.",
+    "img": "/img/products/cury"
+  },
+  {
+    "id": 473,
+    "name": "Pran Moong dal Snack 150 GM",
+    "genre": "Snacks",
+    "description": "Crunch on the wholesome goodness of Pran Moong Dal Snack, a flavorful and crispy snack that brings you the natural taste of moong dal in every bite.",
+    "img": "/img/products/dall.png"
+  },
+  {
+    "id": 474,
+    "name": "Rockstar Punched Energy Drink, Fruit Punch - 16 fl oz",
+    "genre": "Beverages",
+    "description": "Stay energized with the vibrant taste of Rockstar Punched Energy Drink, Fruit Punch flavor, a refreshing beverage that keeps you pumped up and ready for action.",
+    "img": "/img/products/pu.png"
+  },
+  {
+    "id": 475,
+    "name": "Wai Wai Instant Noodles - Vegetable Masala Flavour",
+    "genre": "Noodles",
+    "description": "Satisfy your noodle cravings with Wai Wai Instant Noodles in Vegetable Masala Flavour, a delicious and convenient option for a quick and flavorful meal.",
+    "img": "/img/products/waiwai.png"
+  },
+  {
+    "id": 476,
+    "name": "Nadia Basmati Sella Rice Extra Long Grain (10 lbs)",
+    "genre": "Rice",
+    "description": "Indulge in the extra-long grain goodness of Nadia Basmati Sella Rice, a premium rice variety that adds a touch of luxury to your meals with its exquisite taste and aroma.",
+    "img": "/img/products/nad.png"
+  },
+  {
+    "id": 477,
+    "name": "Bikano Bikaneri Bhujia - 1 kg",
+    "genre": "Snacks",
+    "description": "Savor the traditional taste of Bikaneri Bhujia with Bikano's authentic offering, a crunchy and flavorful snack that delights your taste buds with every bite.",
+    "img": "/img/products/bik.png"
+  },
+  {
+    "id": 478,
+    "name": "Mothers Mixed Pickle - 500g",
+    "genre": "Pickles",
+    "description": "Enhance your meals with the zesty goodness of Mothers Mixed Pickle, a delectable combination of assorted pickled vegetables that adds a burst of flavor to your plate.",
+    "img": "/img/products/pic.png"
+  },
+  {
+    "id": 479,
+    "name": "Bikano Bikaneri Bhujia - 400g",
+    "genre": "Snacks",
+    "description": "Indulge in the authentic taste of Bikaneri Bhujia with Bikano's offering, a crispy and spicy snack that satisfies your snack cravings with every munch.",
+    "img": "/img/products/ing.png"
+  },
+  {
+    "id": 480,
+    "name": "Nepali Barha Masala (Mixed Curry Powder)",
+    "genre": "Spices",
+    "description": "Enhance the flavor of your curries with Nepali Barha Masala, a unique mixed curry powder that brings together a blend of aromatic spices for a delightful culinary experience.",
+    "img": "/img/products/mala.png"
+  },
+  {
+    "id": 481,
+    "name": "Frooti Kesar Mango Pulp 850g",
+    "genre": "Beverages",
+    "description": "Quench your thirst with Frooti Kesar Mango Pulp, a delightful beverage that captures the essence of ripe mangoes, offering a sweet and refreshing taste.",
+    "img": "/img/products/ooti.png"
+  },
+  {
+    "id": 482,
+    "name": "Mtr Lemon Rice Powder 100gm",
+    "genre": "Spices",
+    "description": "Elevate your rice dishes with MTR Lemon Rice Powder, a flavorful spice mix that adds the zesty taste of lemon to your meals, creating a delicious and aromatic experience.",
+    "img": "/img/products/la.png"
+  },
+  {
+    "id": 483,
+    "name": "Haldirams Moong Dal - 200g",
+    "genre": "Snacks",
+    "description": "Crunch on the goodness of Haldirams Moong Dal, a crispy and flavorful snack option that brings you the natural taste of moong dal in every delightful bite.",
+    "img": "/img/products/haaldi.png"
+  },
+  {
+    "id": 484,
+    "name": "Haldirams Bhujia - 200 gm",
+    "genre": "Snacks",
+    "description": "Satisfy your snack cravings with Haldirams Bhujia, a classic and savory snack that delights your taste buds with its crispy texture and authentic flavor.",
+    "img": "/img/products/rams.png"
+  },
+  {
+    "id": 485,
+    "name": "Bikaji Food Pvt. Ltd. Kolkata Chanachur (400 g)",
+    "genre": "Snacks",
+    "description": "Experience the crunchy goodness of Bikaji Kolkata Chanachur, a flavorful and spicy snack mix that offers a perfect blend of various ingredients for a delightful snacking experience.",
+    "img": "/img/products/chur.png"
+  },
+  {
+    "id": 486,
+    "name": "Lipton Pure Leaf Tea - Extra Sweet Tea, 547ml",
+    "genre": "Tea",
+    "description": "Quench your tea cravings with Lipton Pure Leaf Tea in Extra Sweet flavor, a refreshing beverage that combines the goodness of tea with a hint of sweetness for a delightful drinking experience.",
+    "img": "/img/products/leaf.png"
+  },
+  {
+    "id": 487,
+    "name": "WAI WAI Chicken Bhujia",
+    "genre": "Snacks",
+    "description": "Indulge in the savory delight of WAI WAI Chicken Bhujia, a flavorful and crispy snack that brings you the delicious taste of chicken in every crunchy bite.",
+    "img": "/img/products/save.png"
+  },
+  {
+    "id": 488,
+    "name": "Bikano Aloo Bhujia - 1 kg",
+    "genre": "Snacks",
+    "description": "Savor the classic taste of Aloo Bhujia with Bikano's offering, a crispy and savory snack that adds a delightful crunch to your snacking moments.",
+    "img": "/img/products/alu.png"
+  },
+  {
+    "id": 489,
+    "name": "Bikaji Khatta Meetha Tana-Bana, 400g",
+    "genre": "Snacks",
+    "description": "Experience the perfect balance of flavors with Bikaji Khatta Meetha Tana-Bana, a delightful snack that combines sweet and tangy elements for a satisfying snacking experience.",
+    "img": "/img/products/olp.png"
+  },
+  {
+    "id": 490,
+    "name": "MTR Tasty Delights Roasted Vermicelli - 32oz",
+    "genre": "Snacks",
+    "description": "Enjoy the authentic taste of MTR Tasty Delights Roasted Vermicelli, a versatile pasta option that cooks up quickly and adds a delightful texture to your favorite dishes.",
+    "img": "/img/products/kkl.png"
+  },
+  {
+    "id": 491,
+    "name": "Aap Jhol (Hot and Sweet Mango Sweets)",
+    "genre": "Sweets",
+    "description": "Treat your taste buds to the delightful combination of hot and sweet with Aap Jhol, a unique mango Sweets that adds a burst of flavor to your sweet cravings.",
+    "img": "/img/products/finest.png"
+  },
+  {
+    "id": 492,
+    "name": "Balaji Traders Amilo Piro Titaura (Hot and Sour Lapsi Sweets)",
+    "genre": "Sweets",
+    "description": "Experience the tantalizing taste of Amilo Piro Titaura, a hot and sour lapsi Sweets from Balaji Traders that brings you a unique and flavorful Sweets experience.",
+    "img": "/img/products/lapsi.png"
+  },
+  {
+    "id": 493,
+    "name": "Lapsi Jhol Tukra Titaura (Lapsi Piece Sweets)",
+    "genre": "Sweets",
+    "description": "Savor the sweetness of Lapsi Jhol Tukra Titaura, a delightful lapsi piece Sweets that offers a unique and satisfying Sweets experience.",
+    "img": "/img/products/op.png"
+  },
+  {
+    "id": 494,
+    "name": "Priya Lime Pickle with Garlic",
+    "genre": "Pickles",
+    "description": "Enhance your meals with the zesty and garlicky goodness of Priya Lime Pickle with Garlic, a flavorful pickle that adds a burst of flavor to your favorite dishes.",
+    "img": "/img/products/priya.png"
+  },
+  {
+    "id": 495,
+    "name": "Nepali Momo Soup Masala",
+    "genre": "Spices",
+    "description": "Elevate the flavor of your momo soup with Nepali Momo Soup Masala, a unique spice blend that adds the perfect touch of spices to your favorite soup.",
+    "img": "/img/products/chow.png"
+  },
+  {
+    "id": 496,
+    "name": "Nadia Basmati Rice, Extra Long Grain, Steam - 10 lbs (4.54 kg)",
+    "genre": "Rice",
+    "description": "Indulge in the steam-cooked perfection of Nadia Basmati Rice, Extra Long Grain, a premium rice variety that brings you the finest grains and aromatic fragrance for your culinary creations.",
+    "img": "/img/products/ibs.png"
+  },
+  {
+    "id": 497,
+    "name": "24 Mantra Organic Idly Rava - 4lbs",
+    "genre": "Flour",
+    "description": "Experience the organic goodness of 24 Mantra Organic Idly Rava, a versatile flour option that brings you the wholesome taste of organic ingredients for your idly preparation.",
+    "img": "/img/products/ravaa.png"
+  },
+  {
+    "id": 498,
+    "name": "Three Elephants Thai Sweet Rice 5 Pound, 80 Ounce",
+    "genre": "Rice",
+    "description": "Satisfy your sweet cravings with Three Elephants Thai Sweet Rice, a delightful rice variety that adds a touch of sweetness to your culinary creations.",
+    "img": "/img/products/thai.png"
+  },
+  {
+    "id": 499,
+    "name": "Haldiram 200g Kashmiri Mix",
+    "genre": "Snacks",
+    "description": "Enjoy the flavorful combination of spices and crunch with Haldiram Kashmiri Mix, a delightful snack that offers a burst of Kashmiri-inspired flavors.",
+    "img": "/img/products/pre.png"
+  },
+  {
+    "id": 500,
+    "name": "Bikaji Tana Tan (Aloo Bhujia), 400 Grams",
+    "genre": "Snacks",
+    "description": "Savor the classic taste of Aloo Bhujia with Bikaji Tana Tan, a crispy and savory snack that brings you the authentic flavor of potato sev in every delicious bite.",
+    "img": "/img/products/tan.png"
   }
-
-
-
-
+  
 ]

@@ -13,6 +13,7 @@ import Footer from '../components/info/footer';
 import Hero from '../components/info/hero';
 import Gallery from '../components/info/gallery';
 import AboutUs from '../components/info/aboutUs';
+import AllProducts from '../components/products/allProducts';
 
 const fetcher = (url) => fetch(url).then((res) => res.json());
 
@@ -55,6 +56,7 @@ export default function Home() {
         <AboutUs img="/img/store-indoor.jpg" />
         <ProductSlider headerClass="text-start" containerName="Snacks" products={snacks} />
         <ProductSlider headerClass="text-start" containerName="Spices" products={spices} />
+        <AllProducts />
         <Testimonials />
         <Gallery />
         <Faq />

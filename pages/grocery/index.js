@@ -5,6 +5,7 @@ import useSWR from 'swr';
 import ProductSlider from '../../components/products/productSlider';
 import Footer from '../../components/info/footer';
 import Head from 'next/head';
+import AllProducts from '../../components/products/allProducts';
 const fetcher = (url) => fetch(url).then((res) => res.json());
 
 export default function Grocery() {
@@ -55,6 +56,7 @@ export default function Grocery() {
       <ProductSlider headerClass="text-center" containerName="Sweets" products={sweets} />
       <ProductSlider headerClass="text-center" containerName="Breads" products={breads} />
       <ProductSlider headerClass="text-center" containerName="Juices" products={juices} />
+      <AllProducts />
       <Footer />
     </>
   )

@@ -13,7 +13,7 @@ export default function About() {
             <Head>
                 <title>About Express Grocery Store | Indian Nepali Grocery Store Charlottesville</title>
                 <meta name="description" content="Discover the story behind Express Grocery Store - your one-stop shop for quality Indian and Nepali groceries in Charlottesville." />
-                <meta name="keywords" content="Indian grocery store, Nepali food, Charlottesville market, Local grocery shop, Cultural ingredients, Specialty store, Family-owned business, Ethnic products, Community-driven, Quality assurance"/>
+                <meta name="keywords" content="Indian grocery store, Nepali food, Charlottesville market, Local grocery shop, Cultural ingredients, Specialty store, Family-owned business, Ethnic products, Community-driven, Quality assurance" />
             </Head>
             <Navbar />
             <div className='mt-5'>
