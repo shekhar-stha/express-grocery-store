@@ -4,6 +4,7 @@ import ProductCategories from '../../components/products/productCategories'
 import useSWR from 'swr';
 import ProductSlider from '../../components/products/productSlider';
 import Footer from '../../components/info/footer';
+import Head from 'next/head';
 const fetcher = (url) => fetch(url).then((res) => res.json());
 
 export default function Grocery() {

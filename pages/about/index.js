@@ -5,6 +5,7 @@ import AboutUs from '../../components/info/aboutUs'
 import WhyUs from '../../components/info/whyUs'
 import ContactForm from '../../components/form/contactForm'
 import Gallery from '../../components/info/gallery'
+import Head from 'next/head'
 
 export default function About() {
     return (

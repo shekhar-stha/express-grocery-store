@@ -7,6 +7,7 @@ import useSWR from "swr";
 import Link from "next/link";
 import Footer from "../../components/info/footer";
 import SearchComponent from "../../components/ui-elements/searchButton";
+import Head from "next/head";
 
 const fetcher = (url) => fetch(url).then((res) => res.json());
 export default function Search() {
