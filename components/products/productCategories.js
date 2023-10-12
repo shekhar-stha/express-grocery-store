@@ -1,43 +1,28 @@
 import Image from "next/image";
-import useSWR from "swr";
 
+const categories = [
+  { name: "Rice", src: "/img/rice.png" },
+  { name: "Snacks", src: "/img/snacks.png" },
+  { name: "Spices", src: "/img/spices.png" },
+  { name: "Vegetables", src: "/img/vegetable.png" }
+];
 
 export default function ProductCategories() {
-
   return (
     <section className="product-categories">
       <div className="container">
         <h3 className="header text-center">Product Categories</h3>
         <div className="grid">
-          <div className="category">
-            <div className="img-div">
-              <Image width={300} height={150} src="/img/rice.png" alt="Rice" />
+          {categories.map(category => (
+            <div className="category" key={category.name}>
+              <div className="img-div">
+                <Image width={300} height={150} src={category.src} alt={category.name} />
+              </div>
+              <p className="category-name">{category.name}</p>
             </div>
-            <p className="category-name">Rice</p>
-          </div>
-
-          <div className="category">
-            <div className="img-div">
-              <Image width={300} height={150} src="/img/snacks.png" alt="Snacks" />
-            </div>
-            <p className="category-name">Snacks</p>
-          </div>
-
-          <div className="category">
-            <div className="img-div">
-              <Image width={300} height={150} src="/img/spices.png" alt="Spices" />
-            </div>
-            <p className="category-name">Spices</p>
-          </div>
-
-          <div className="category">
-            <div className="img-div">
-              <Image width={300} height={150} src="/img/vegetable.png" alt="Vegetables" />
-            </div>
-            <p className="category-name">Vegatables</p>
-          </div>
+          ))}
         </div>
       </div>
     </section>
-  )
+  );
 }
