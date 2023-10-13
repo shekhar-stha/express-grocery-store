@@ -56,7 +56,7 @@ export default function Hero() {
                         </div>
                     </div>
                     <div className="img-div ps-2">
-                        <Image width={600} height={600} priority className="hero-img" src="/img/hero-lady.png" alt="Lady Shopping" />
+                        <Image width={1000} height={800} priority className="hero-img" src="/img/hero-lady.png" alt="Lady Shopping" />
 
                     </div>
                 </div>

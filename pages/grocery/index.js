@@ -55,7 +55,7 @@ export default function Grocery() {
       <ProductSlider headerClass="text-center" containerName="Dairy" products={dairy} />
       <ProductSlider headerClass="text-center" containerName="Sweets" products={sweets} />
       <ProductSlider headerClass="text-center" containerName="Breads" products={breads} />
-      <ProductSlider headerClass="text-center" containerName="Juices" products={desserts} />
+      <ProductSlider headerClass="text-center" containerName="Desserts" products={desserts} />
       <AllProducts />
       <Footer />
     </>
