@@ -40,10 +40,15 @@ export default function Search() {
 
     let searchProducts;
     if (name && name !== 'all') {
-        searchProducts = products.filter((product) => product.name?.toLowerCase().includes(name?.toLowerCase()));
+        searchProducts = products.filter((product) => 
+            (product?.name?.toLowerCase().includes(name?.toLowerCase())) || 
+            (product?.description?.toLowerCase().includes(name?.toLowerCase())) ||
+            (product?.genre?.toLowerCase().includes(name?.toLowerCase()))
+        );
     } else {
         searchProducts = products; // Show all products
     }
+    
 
     const shownProducts = searchProducts.slice(0, displayedProducts);
 
@@ -56,7 +61,7 @@ export default function Search() {
     return (
         <>
             <Head>
-                <title>Seearch Products | Indian Nepali Grocery Store</title>
+                <title>Search Products | Indian Nepali Grocery Store</title>
                 <meta name="description" content="Explore a diverse range of Indian and Nepali groceries at Express Grocery Store in Charlottesville. Enjoy free delivery over $40" />
                 <meta name="keywords" content="Indian groceries, Nepali groceries, Express Grocery Store, 
                         Best Indian Grocery, Grocery Store Charlottesville" />

@@ -33,7 +33,7 @@ export default function Grocery() {
   const dairy = products.filter((product) => product.genre === 'Dairy');
   const sweets = products.filter((product) => product.genre === 'Sweets');
   const breads = products.filter((product) => product.genre === 'Breads');
-  const juices = products.filter((product) => product.genre === 'Juices');
+  const desserts = products.filter((product) => product.genre === 'Dessert');
   return (
     <>
       <Head>
@@ -55,7 +55,7 @@ export default function Grocery() {
       <ProductSlider headerClass="text-center" containerName="Dairy" products={dairy} />
       <ProductSlider headerClass="text-center" containerName="Sweets" products={sweets} />
       <ProductSlider headerClass="text-center" containerName="Breads" products={breads} />
-      <ProductSlider headerClass="text-center" containerName="Juices" products={juices} />
+      <ProductSlider headerClass="text-center" containerName="Juices" products={desserts} />
       <AllProducts />
       <Footer />
     </>

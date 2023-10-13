@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 
 const categories = [
   { name: "Rice", src: "/img/rice.png" },
@@ -14,12 +15,12 @@ export default function ProductCategories() {
         <h3 className="header text-center">Product Categories</h3>
         <div className="grid">
           {categories.map(category => (
-            <div className="category" key={category.name}>
+            <Link className="category" href={`/search/${category.name.toLowerCase()}`} key={category.name}>
               <div className="img-div">
                 <Image width={300} height={150} src={category.src} alt={category.name} />
               </div>
               <p className="category-name">{category.name}</p>
-            </div>
+            </Link>
           ))}
         </div>
       </div>

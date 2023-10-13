@@ -114,28 +114,28 @@
   {
     "id": 17,
     "name": "Reenas Mango 1/2Gal",
-    "genre": "Juices",
+    "genre": "Dessert",
     "description": "Reena's Mango Juice is a refreshing and naturally sweet delight in a convenient 1/2-gallon size.",
     "img": "/img/products/mango.jpg"
   },
   {
     "id": 18,
     "name": "Reena mango",
-    "genre": "Juices",
+    "genre": "Dessert",
     "description": "Reena Mango Juice is a delicious and natural source of energy.",
     "img": "/img/products/mag.jpg"
   },
   {
     "id": 19,
     "name": "Reenas Kesar Pista 1Q",
-    "genre": "Juices",
+    "genre": "Dessert",
     "description": "Reena's Kesar Pista Juice offers a delightful blend of saffron and pistachio flavors.",
     "img": "/img/products/pista.jpg"
   },
   {
     "id": 20,
     "name": "Reenas Chokoo 1Quart",
-    "genre": "Juices",
+    "genre": "Dessert",
     "description": "Reena's Chokoo Juice is a rich and creamy delight in a convenient 1-quart size.",
     "img": "/img/products/chiko.jpg"
   },
