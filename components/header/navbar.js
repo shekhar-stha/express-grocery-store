@@ -12,7 +12,7 @@ export default function Navbar() {
         <div className="container">
           <div className="d-flex justify-content-between flex-vsm-row flex-column align-items-center">
             <div className="">
-              <a className="text-white" title="Location" href="https://www.google.com/maps/dir/26.6518471,87.2980115/38.06326,-78.48848/@2.315488,-81.9361986,3z/data=!3m1!4b1!4m4!4m3!1m1!4e1!1m0?entry=ttu">
+              <a className="text-white" target="_blank" title="Location" href="https://www.google.com/maps/dir/26.6518471,87.2980115/38.06326,-78.48848/@2.315488,-81.9361986,3z/data=!3m1!4b1!4m4!4m3!1m1!4e1!1m0?entry=ttu">
                 <IconCurrentLocation className="text-secondary me-sm-3 me-1" />
                 <span>Charlottesville, VA</span>
               </a>

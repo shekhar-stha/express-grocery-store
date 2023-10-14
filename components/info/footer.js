@@ -55,7 +55,7 @@ export default function Footer() {
                                 </a>
                             </p>
                             <p>
-                                <a title="Location" href="/index.html#serviceAreas" className="d-flex">
+                                <a target='_blank' title="Location" href="https://www.google.com/maps/dir/26.6518471,87.2980115/38.06326,-78.48848/@2.315488,-81.9361986,3z/data=!3m1!4b1!4m4!4m3!1m1!4e1!1m0?entry=ttu" className="d-flex">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                                         className="bi bi-geo-alt me-3" viewBox="0 0 16 16">
                                         <path
@@ -73,7 +73,7 @@ export default function Footer() {
                 <hr className="mt-4" />
 
                 <p className="pt-2 pb-3 fw-500 text-info text-center">&copy; Express Grocery 2023. All rights reserved.</p>
-              
+                <p className="pt-2 pb-3 fw-500 text-info text-center">Developed by <a target='_blank' href='https://shekharstha.com.np/'>Shekhar Shrestha & Team</a></p>
             </div>
         </footer>
     )
