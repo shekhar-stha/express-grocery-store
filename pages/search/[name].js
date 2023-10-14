@@ -39,16 +39,20 @@ export default function Search() {
     const products = JSON.parse(data);
 
     let searchProducts;
-    if (name && name !== 'all') {
-        searchProducts = products.filter((product) => 
-            (product?.name?.toLowerCase().includes(name?.toLowerCase())) || 
+    if (name && name !== 'all' && name.includes('genre-')) {
+        searchProducts = products.filter((product) =>
+            (name?.toLowerCase().includes(product?.genre?.toLowerCase()))
+        );
+    } else if (name && name !== 'all') {
+        searchProducts = products.filter((product) =>
+            (product?.name?.toLowerCase().includes(name?.toLowerCase())) ||
             (product?.description?.toLowerCase().includes(name?.toLowerCase())) ||
             (product?.genre?.toLowerCase().includes(name?.toLowerCase()))
         );
     } else {
         searchProducts = products; // Show all products
     }
-    
+
 
     const shownProducts = searchProducts.slice(0, displayedProducts);
 

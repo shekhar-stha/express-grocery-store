@@ -15,7 +15,7 @@ export default function ProductCategories() {
         <h3 className="header text-center">Product Categories</h3>
         <div className="grid">
           {categories.map(category => (
-            <Link className="category" href={`/search/${category.name.toLowerCase()}`} key={category.name}>
+            <Link className="category" href={`/search/genre-${category.name.toLowerCase()}`} key={category.name}>
               <div className="img-div">
                 <Image width={300} height={150} src={category.src} alt={category.name} />
               </div>
