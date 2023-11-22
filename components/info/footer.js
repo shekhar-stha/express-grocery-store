@@ -73,7 +73,7 @@ export default function Footer() {
                 <hr className="mt-4" />
 
                 <p className="pt-2 pb-3 fw-500 text-info text-center">&copy; Express Grocery 2023. All rights reserved.</p>
-                <p className="pt-2 pb-3 fw-500 text-info text-center">Developed by <a target='_blank' href='https://shekharstha.com.np/'>Shekhar Shrestha & Team</a></p>
+               
             </div>
         </footer>
     )
